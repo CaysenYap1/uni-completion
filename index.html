@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Who finishes uni in Australia?</title>
+<script src="https://cdn.jsdelivr.net/npm/vega@5.30.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@5.21.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6.26.0"></script>
+<style>
+body{margin:0;font-family:Helvetica,Arial,sans-serif;color:#1a1a1a;background:#f6f8fa;line-height:1.55}
+main{max-width:920px;margin:0 auto;padding:24px 20px}
+h1{font-size:34px;margin:8px 0}h2{font-size:22px;margin:0 0 6px;color:#1f5fa8}
+p{max-width:640px;margin:0 0 14px}.lead{font-size:18px}
+section{background:#fff;border-radius:10px;padding:22px;margin:22px 0}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:20px}
+.big{font-size:56px;font-weight:bold;color:#1f5fa8;margin:0;line-height:1}
+h3{font-size:14px;margin:12px 0 4px;color:#444}.src{font-size:13px;color:#555}
+footer{font-size:13px;color:#555;padding:10px 0 40px}footer p{max-width:none}
+</style></head><body><main>
+<h1>Who finishes uni in Australia?</h1>
+<p class="lead">Starting a degree is the easy part. Whether you finish depends on what you study, where you study and how you study.</p>
+
+<section><h2>1. The big picture</h2>
+<div class="grid"><div><p class="big">62%</p><p>of students who started a bachelor degree in 2017 had finished six years later. Overseas students finished at 79%.</p></div>
+<div><h3>Share finishing within six years, by start year</h3><div id="c1"></div></div></div></section>
+
+<section><h2>2. What you study</h2>
+<p>Completion rates differ a lot between fields of study. Every field finished less often for 2017 starters than for 2005 starters, and Education fell the furthest, by about 19 percentage points.</p>
+<div class="grid"><div><h3>Completed within six years, 2017 starters</h3><div id="c2"></div></div>
+<div><h3>2005 starters compared with 2017 starters</h3><div id="c3"></div></div></div></section>
+
+<section><h2>3. Where you study</h2>
+<p>A degree is more common in some states. Completion also varies from one university to the next.</p>
+<div class="grid"><div><h3>Adults with a bachelor degree as their highest qualification</h3><div id="c4"></div></div>
+<div><h3>Each university, 2017 starters</h3><div id="c5"></div></div>
+<div><h3>Average university completion, by state</h3><div id="c6"></div><p class="src">A simple average of each state's universities, not weighted by student numbers.</p></div></div></section>
+
+<section><h2>4. Who you are</h2>
+<p>Students from metropolitan areas finished at 63%, regional students at 57% and remote students at 53%. First Nations students finished at 40%, against 62% for non-Indigenous students.</p>
+<h3>By home location, by start year</h3><div id="c7"></div>
+<h3>First Nations and socio-economic background, 2017 starters</h3><div id="c8"></div></section>
+
+<section><h2>5. How you study</h2>
+<p>Students who study online or by distance finish far less often (39%) than those studying on campus (66%).</p>
+<div class="grid"><div><h3>What happened to 2017 starters</h3><div id="c9"></div></div>
+<div><h3>Completion by ATAR (entry score) band and start year</h3><div id="c10"></div></div></div></section>
+
+<footer>
+<p><b>Data.</b> (1) Department of Education, <i>Completion Rates of Higher Education Students: Cohort Analysis 2005-2022</i>, <a href="https://www.education.gov.au/higher-education-statistics/completion-rates-cohort-analyses">education.gov.au</a>. Domestic bachelor students at Table A and B universities, six-year completion. (2) Australian Bureau of Statistics, <i>Education and Work, Australia, May 2025</i>, Table 21, <a href="https://www.abs.gov.au/statistics/people/education/education-and-work-australia/latest-release">abs.gov.au</a>. State boundaries: <a href="https://github.com/rowanhogan/australian-states">rowanhogan/australian-states</a>. University locations are approximate main campuses.</p>
+<p><b>Author.</b> Caysen Yap, FIT3179 Data Visualisation, Monash University. October 2026. Built with Vega-Lite. Page code and chart specifications were drafted with Claude (Anthropic), an AI tool.</p>
+</footer></main>
+<script>
+const charts=["s01_trend","s02_field_lollipop","s03_field_dumbbell","s04_choropleth","s05_symbol_map","s06_tile_grid","s07_regional_multiples","s08_equity_lollipop","s09_mode_stacked","s10_atar_heatmap"];
+charts.forEach((n,i)=>fetch("specs/"+n+".json").then(r=>r.json()).then(s=>vegaEmbed("#c"+(i+1),s,{actions:false})));
+</script></body></html>

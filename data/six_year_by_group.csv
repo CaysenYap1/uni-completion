@@ -1,0 +1,890 @@
+section,group,cohort_start,completed,still_enrolled,dropped_out,never_returned
+National,National Total (Domestic students),2005,67.02,10.97,12.87,9.14
+National,National Total (Domestic students),2006,66.84,10.97,13.42,8.76
+National,National Total (Domestic students),2007,66.64,11.38,13.36,8.63
+National,National Total (Domestic students),2008,67.18,11.22,13.72,7.88
+National,National Total (Domestic students),2009,66.84,11.61,14.15,7.4
+National,National Total (Domestic students),2010,65.97,11.79,14.36,7.87
+National,National Total (Domestic students),2011,65.75,11.82,14.73,7.7
+National,National Total (Domestic students),2012,64.45,11.95,15.3,8.3
+National,National Total (Domestic students),2013,63.34,11.8,15.41,9.45
+National,National Total (Domestic students),2014,62.41,12.12,15.72,9.76
+National,National Total (Domestic students),2015,62.33,12.74,15.4,9.53
+National,National Total (Domestic students),2016,62.64,13.27,15.13,8.96
+National,National Total (Domestic students),2017,61.77,12.88,16.04,9.31
+National,Comparison figure for Overseas students,2005,73.33,1.27,14.82,10.57
+National,Comparison figure for Overseas students,2006,75.92,1.41,12.56,10.12
+National,Comparison figure for Overseas students,2007,77.44,1.38,12.22,8.97
+National,Comparison figure for Overseas students,2008,78.15,1.42,12.15,8.28
+National,Comparison figure for Overseas students,2009,79.06,1.27,11.99,7.68
+National,Comparison figure for Overseas students,2010,78.82,1.36,12.11,7.72
+National,Comparison figure for Overseas students,2011,78.66,1.43,11.56,8.35
+National,Comparison figure for Overseas students,2012,79.31,1.54,11.0,8.15
+National,Comparison figure for Overseas students,2013,79.87,1.56,10.89,7.68
+National,Comparison figure for Overseas students,2014,79.7,1.54,10.57,8.19
+National,Comparison figure for Overseas students,2015,78.88,1.69,10.68,8.75
+National,Comparison figure for Overseas students,2016,78.69,1.95,10.71,8.64
+National,Comparison figure for Overseas students,2017,79.16,2.03,10.46,8.35
+Course Level,Bachelor's Graduate Entry,2005,79.21,4.63,7.37,8.78
+Course Level,Bachelor's Graduate Entry,2006,79.83,4.74,7.26,8.16
+Course Level,Bachelor's Graduate Entry,2007,77.97,5.08,7.71,9.24
+Course Level,Bachelor's Graduate Entry,2008,78.67,5.23,7.51,8.59
+Course Level,Bachelor's Graduate Entry,2009,78.06,6.19,8.39,7.36
+Course Level,Bachelor's Graduate Entry,2010,78.68,4.96,8.4,7.95
+Course Level,Bachelor's Graduate Entry,2011,76.89,5.71,8.72,8.68
+Course Level,Bachelor's Graduate Entry,2012,75.43,6.69,9.83,8.06
+Course Level,Bachelor's Graduate Entry,2013,70.92,7.59,11.04,10.45
+Course Level,Bachelor's Graduate Entry,2014,65.74,8.49,13.36,12.41
+Course Level,Bachelor's Graduate Entry,2015,60.79,9.87,15.12,14.22
+Course Level,Bachelor's Graduate Entry,2016,62.34,9.5,15.27,12.89
+Course Level,Bachelor's Graduate Entry,2017,61.91,8.34,15.18,14.57
+Course Level,Bachelor's Honours,2005,84.33,3.24,4.47,7.96
+Course Level,Bachelor's Honours,2006,86.23,2.82,4.09,6.87
+Course Level,Bachelor's Honours,2007,82.93,4.16,5.9,7.01
+Course Level,Bachelor's Honours,2008,83.77,3.81,5.46,6.96
+Course Level,Bachelor's Honours,2009,86.46,3.17,5.0,5.37
+Course Level,Bachelor's Honours,2010,84.03,4.9,5.51,5.56
+Course Level,Bachelor's Honours,2011,85.96,4.08,4.96,5.0
+Course Level,Bachelor's Honours,2012,84.71,3.86,5.31,6.12
+Course Level,Bachelor's Honours,2013,81.0,4.49,6.58,7.93
+Course Level,Bachelor's Honours,2014,75.47,8.58,9.22,6.72
+Course Level,Bachelor's Honours,2015,71.59,12.39,9.88,6.13
+Course Level,Bachelor's Honours,2016,72.03,12.95,9.55,5.46
+Course Level,Bachelor's Honours,2017,71.39,11.9,10.71,6.0
+Course Level,Bachelor's Pass,2005,66.36,11.29,13.18,9.17
+Course Level,Bachelor's Pass,2006,66.18,11.27,13.74,8.81
+Course Level,Bachelor's Pass,2007,66.06,11.68,13.64,8.63
+Course Level,Bachelor's Pass,2008,66.62,11.49,14.01,7.87
+Course Level,Bachelor's Pass,2009,66.2,11.9,14.46,7.44
+Course Level,Bachelor's Pass,2010,65.26,12.1,14.7,7.93
+Course Level,Bachelor's Pass,2011,65.05,12.11,15.08,7.76
+Course Level,Bachelor's Pass,2012,63.73,12.25,15.66,8.37
+Course Level,Bachelor's Pass,2013,62.67,12.09,15.75,9.48
+Course Level,Bachelor's Pass,2014,61.57,12.38,16.15,9.9
+Course Level,Bachelor's Pass,2015,61.17,12.82,16.11,9.91
+Course Level,Bachelor's Pass,2016,61.33,13.35,15.91,9.4
+Course Level,Bachelor's Pass,2017,60.42,13.05,16.8,9.73
+Mode of Attendance,Internal,2005,70.19,10.37,11.69,7.75
+Mode of Attendance,Internal,2006,69.8,10.45,12.27,7.48
+Mode of Attendance,Internal,2007,69.65,10.8,12.13,7.42
+Mode of Attendance,Internal,2008,70.22,10.65,12.5,6.63
+Mode of Attendance,Internal,2009,69.85,11.01,12.91,6.23
+Mode of Attendance,Internal,2010,68.94,11.2,13.19,6.68
+Mode of Attendance,Internal,2011,68.77,11.19,13.52,6.52
+Mode of Attendance,Internal,2012,68.07,11.32,13.75,6.86
+Mode of Attendance,Internal,2013,67.37,11.14,13.78,7.72
+Mode of Attendance,Internal,2014,66.95,11.41,13.92,7.72
+Mode of Attendance,Internal,2015,66.77,12.07,13.58,7.58
+Mode of Attendance,Internal,2016,66.74,12.6,13.35,7.32
+Mode of Attendance,Internal,2017,66.34,12.25,13.99,7.42
+Mode of Attendance,External,2005,37.44,17.27,22.84,22.45
+Mode of Attendance,External,2006,37.34,16.57,23.82,22.27
+Mode of Attendance,External,2007,37.42,17.22,24.42,20.94
+Mode of Attendance,External,2008,38.14,17.09,24.36,20.4
+Mode of Attendance,External,2009,39.16,17.46,24.41,18.97
+Mode of Attendance,External,2010,39.25,17.27,23.91,19.57
+Mode of Attendance,External,2011,38.83,17.95,23.82,19.4
+Mode of Attendance,External,2012,39.51,16.38,24.81,19.3
+Mode of Attendance,External,2013,38.28,15.69,24.59,21.44
+Mode of Attendance,External,2014,37.24,15.98,24.74,22.04
+Mode of Attendance,External,2015,37.06,17.09,24.59,21.26
+Mode of Attendance,External,2016,38.34,17.91,24.62,19.13
+Mode of Attendance,External,2017,38.72,16.38,25.22,19.68
+Mode of Attendance,Multi-modal,2005,65.21,10.19,15.25,9.36
+Mode of Attendance,Multi-modal,2006,64.15,10.87,16.09,8.89
+Mode of Attendance,Multi-modal,2007,65.09,11.4,15.37,8.14
+Mode of Attendance,Multi-modal,2008,65.98,10.85,15.68,7.49
+Mode of Attendance,Multi-modal,2009,65.31,11.35,16.51,6.83
+Mode of Attendance,Multi-modal,2010,66.26,11.56,15.78,6.4
+Mode of Attendance,Multi-modal,2011,64.62,11.25,17.59,6.55
+Mode of Attendance,Multi-modal,2012,64.93,11.66,16.94,6.48
+Mode of Attendance,Multi-modal,2013,63.74,12.12,16.82,7.32
+Mode of Attendance,Multi-modal,2014,64.06,11.91,16.57,7.47
+Mode of Attendance,Multi-modal,2015,65.36,11.6,15.65,7.39
+Mode of Attendance,Multi-modal,2016,65.63,12.0,15.09,7.28
+Mode of Attendance,Multi-modal,2017,64.35,12.11,16.25,7.29
+Type of Attendance,Full-time,2005,72.79,9.63,11.03,6.56
+Type of Attendance,Full-time,2006,72.26,9.81,11.56,6.37
+Type of Attendance,Full-time,2007,72.03,10.13,11.5,6.35
+Type of Attendance,Full-time,2008,72.59,9.91,11.83,5.68
+Type of Attendance,Full-time,2009,72.04,10.39,12.31,5.26
+Type of Attendance,Full-time,2010,71.03,10.62,12.64,5.71
+Type of Attendance,Full-time,2011,70.69,10.65,13.05,5.61
+Type of Attendance,Full-time,2012,69.65,10.86,13.42,6.07
+Type of Attendance,Full-time,2013,68.82,10.86,13.53,6.79
+Type of Attendance,Full-time,2014,68.38,11.01,13.68,6.93
+Type of Attendance,Full-time,2015,68.36,11.54,13.33,6.77
+Type of Attendance,Full-time,2016,68.22,12.0,13.17,6.61
+Type of Attendance,Full-time,2017,67.43,11.65,14.07,6.84
+Type of Attendance,Part-time,2005,39.65,17.33,21.63,21.39
+Type of Attendance,Part-time,2006,39.6,16.81,22.8,20.8
+Type of Attendance,Part-time,2007,39.19,17.78,22.82,20.21
+Type of Attendance,Part-time,2008,39.01,18.06,23.57,19.36
+Type of Attendance,Part-time,2009,39.36,18.06,23.88,18.7
+Type of Attendance,Part-time,2010,38.68,18.1,23.68,19.53
+Type of Attendance,Part-time,2011,38.22,18.34,24.08,19.36
+Type of Attendance,Part-time,2012,38.07,17.47,24.82,19.63
+Type of Attendance,Part-time,2013,36.27,16.44,24.71,22.58
+Type of Attendance,Part-time,2014,34.92,17.21,25.1,22.77
+Type of Attendance,Part-time,2015,35.48,18.09,24.6,21.83
+Type of Attendance,Part-time,2016,37.17,19.06,24.09,19.68
+Type of Attendance,Part-time,2017,36.92,18.24,24.7,20.14
+Gender,Males,2005,63.6,11.99,14.65,9.76
+Gender,Males,2006,63.6,12.21,14.96,9.23
+Gender,Males,2007,63.58,12.49,14.85,9.07
+Gender,Males,2008,64.36,12.53,15.01,8.1
+Gender,Males,2009,63.61,13.09,15.82,7.48
+Gender,Males,2010,62.82,13.17,15.96,8.05
+Gender,Males,2011,62.62,13.06,16.5,7.83
+Gender,Males,2012,61.4,13.13,17.01,8.46
+Gender,Males,2013,60.34,12.71,17.44,9.51
+Gender,Males,2014,59.91,12.86,17.46,9.77
+Gender,Males,2015,59.74,13.37,17.07,9.82
+Gender,Males,2016,59.77,13.96,16.73,9.54
+Gender,Males,2017,59.12,13.31,17.77,9.8
+Gender,Females,2005,69.4,10.26,11.64,8.71
+Gender,Females,2006,69.1,10.11,12.35,8.44
+Gender,Females,2007,68.73,10.62,12.33,8.32
+Gender,Females,2008,69.12,10.32,12.84,7.73
+Gender,Females,2009,69.05,10.6,13.01,7.35
+Gender,Females,2010,68.14,10.84,13.26,7.75
+Gender,Females,2011,67.96,10.94,13.49,7.61
+Gender,Females,2012,66.58,11.12,14.11,8.19
+Gender,Females,2013,65.45,11.16,13.98,9.41
+Gender,Females,2014,64.18,11.59,14.49,9.75
+Gender,Females,2015,64.18,12.29,14.2,9.32
+Gender,Females,2016,64.68,12.77,14.0,8.55
+Gender,Females,2017,63.59,12.58,14.86,8.97
+Age,19 and under,2005,73.26,10.84,10.23,5.66
+Age,19 and under,2006,72.7,11.15,10.6,5.55
+Age,19 and under,2007,72.5,11.44,10.53,5.54
+Age,19 and under,2008,73.37,11.2,10.68,4.75
+Age,19 and under,2009,72.68,11.6,11.25,4.47
+Age,19 and under,2010,71.76,11.86,11.48,4.9
+Age,19 and under,2011,71.39,11.91,11.85,4.85
+Age,19 and under,2012,70.38,12.09,12.28,5.25
+Age,19 and under,2013,69.77,12.12,12.19,5.92
+Age,19 and under,2014,69.3,12.29,12.37,6.05
+Age,19 and under,2015,69.08,12.84,11.99,6.1
+Age,19 and under,2016,69.04,13.41,11.73,5.82
+Age,19 and under,2017,68.42,12.99,12.7,5.88
+Age,20-24,2005,65.15,9.81,14.55,10.49
+Age,20-24,2006,64.36,9.54,15.64,10.46
+Age,20-24,2007,64.59,9.89,15.52,10.0
+Age,20-24,2008,64.65,9.82,16.01,9.51
+Age,20-24,2009,65.01,10.1,16.29,8.6
+Age,20-24,2010,64.15,10.32,16.52,9.01
+Age,20-24,2011,64.08,10.2,16.93,8.78
+Age,20-24,2012,62.93,10.46,17.25,9.35
+Age,20-24,2013,61.82,10.22,17.64,10.32
+Age,20-24,2014,61.19,10.58,17.81,10.42
+Age,20-24,2015,61.43,11.1,17.28,10.19
+Age,20-24,2016,61.73,11.45,17.28,9.53
+Age,20-24,2017,60.46,11.4,17.92,10.22
+Age,25 and over,2005,51.83,12.5,18.37,17.29
+Age,25 and over,2006,51.79,12.02,19.54,16.65
+Age,25 and over,2007,50.39,12.86,19.89,16.86
+Age,25 and over,2008,50.16,12.81,20.93,16.09
+Age,25 and over,2009,50.86,13.31,20.72,15.11
+Age,25 and over,2010,50.38,13.15,20.79,15.67
+Age,25 and over,2011,49.67,13.33,21.43,15.57
+Age,25 and over,2012,49.08,13.08,21.9,15.94
+Age,25 and over,2013,47.38,12.51,21.93,18.19
+Age,25 and over,2014,45.6,13.17,22.43,18.8
+Age,25 and over,2015,45.54,14.12,22.48,17.87
+Age,25 and over,2016,46.68,14.72,21.93,16.67
+Age,25 and over,2017,46.09,14.01,22.75,17.16
+Basis for Admission,Other basis for admission,2005,63.62,10.46,14.67,11.25
+Basis for Admission,Other basis for admission,2006,63.02,10.39,15.49,11.11
+Basis for Admission,Other basis for admission,2007,62.13,11.0,15.84,11.02
+Basis for Admission,Other basis for admission,2008,62.02,11.13,16.31,10.54
+Basis for Admission,Other basis for admission,2009,62.2,11.36,16.7,9.74
+Basis for Admission,Other basis for admission,2010,61.09,11.53,17.04,10.34
+Basis for Admission,Other basis for admission,2011,60.91,11.56,17.41,10.12
+Basis for Admission,Other basis for admission,2012,59.41,11.65,18.17,10.76
+Basis for Admission,Other basis for admission,2013,57.9,11.53,18.26,12.32
+Basis for Admission,Other basis for admission,2014,56.94,11.97,18.59,12.51
+Basis for Admission,Other basis for admission,2015,57.18,12.8,17.98,12.04
+Basis for Admission,Other basis for admission,2016,57.86,13.3,17.75,11.09
+Basis for Admission,Other basis for admission,2017,56.89,12.72,18.64,11.75
+Basis for Admission,Secondary education,2005,71.15,11.58,10.69,6.58
+Basis for Admission,Secondary education,2006,71.0,11.61,11.17,6.22
+Basis for Admission,Secondary education,2007,71.07,11.75,10.91,6.27
+Basis for Admission,Secondary education,2008,72.35,11.3,11.13,5.21
+Basis for Admission,Secondary education,2009,71.68,11.86,11.48,4.97
+Basis for Admission,Secondary education,2010,71.04,12.06,11.59,5.31
+Basis for Admission,Secondary education,2011,70.71,12.08,11.99,5.22
+Basis for Admission,Secondary education,2012,69.83,12.26,12.23,5.68
+Basis for Admission,Secondary education,2013,69.55,12.11,12.16,6.18
+Basis for Admission,Secondary education,2014,69.07,12.3,12.23,6.41
+Basis for Admission,Secondary education,2015,69.1,12.66,12.0,6.24
+Basis for Admission,Secondary education,2016,69.14,13.23,11.57,6.06
+Basis for Admission,Secondary education,2017,67.83,13.07,12.82,6.28
+Australian Tertiary Admission Rank (ATAR)- for school leavers,30-49,2005,48.56,8.14,24.15,19.16
+Australian Tertiary Admission Rank (ATAR)- for school leavers,30-49,2006,44.44,11.3,26.25,18.01
+Australian Tertiary Admission Rank (ATAR)- for school leavers,30-49,2007,51.08,12.07,21.05,15.79
+Australian Tertiary Admission Rank (ATAR)- for school leavers,30-49,2008,41.25,15.0,27.5,16.25
+Australian Tertiary Admission Rank (ATAR)- for school leavers,30-49,2009,48.37,12.86,26.09,12.68
+Australian Tertiary Admission Rank (ATAR)- for school leavers,30-49,2010,40.58,12.64,27.49,19.29
+Australian Tertiary Admission Rank (ATAR)- for school leavers,30-49,2011,42.25,11.11,32.02,14.62
+Australian Tertiary Admission Rank (ATAR)- for school leavers,30-49,2012,42.96,12.91,25.02,19.11
+Australian Tertiary Admission Rank (ATAR)- for school leavers,30-49,2013,42.38,13.99,24.31,19.32
+Australian Tertiary Admission Rank (ATAR)- for school leavers,30-49,2014,45.02,12.72,26.76,15.49
+Australian Tertiary Admission Rank (ATAR)- for school leavers,30-49,2015,46.37,14.15,23.5,15.98
+Australian Tertiary Admission Rank (ATAR)- for school leavers,30-49,2016,46.98,14.05,22.01,16.97
+Australian Tertiary Admission Rank (ATAR)- for school leavers,30-49,2017,41.99,14.5,25.93,17.57
+Australian Tertiary Admission Rank (ATAR)- for school leavers,50-59,2005,49.31,13.93,19.57,17.19
+Australian Tertiary Admission Rank (ATAR)- for school leavers,50-59,2006,46.2,14.05,22.87,16.89
+Australian Tertiary Admission Rank (ATAR)- for school leavers,50-59,2007,48.26,14.82,20.19,16.72
+Australian Tertiary Admission Rank (ATAR)- for school leavers,50-59,2008,51.89,14.1,19.58,14.43
+Australian Tertiary Admission Rank (ATAR)- for school leavers,50-59,2009,51.33,14.47,22.73,11.47
+Australian Tertiary Admission Rank (ATAR)- for school leavers,50-59,2010,48.39,15.52,23.27,12.82
+Australian Tertiary Admission Rank (ATAR)- for school leavers,50-59,2011,49.17,15.11,23.54,12.18
+Australian Tertiary Admission Rank (ATAR)- for school leavers,50-59,2012,49.12,15.36,22.74,12.78
+Australian Tertiary Admission Rank (ATAR)- for school leavers,50-59,2013,50.46,14.47,22.07,13.0
+Australian Tertiary Admission Rank (ATAR)- for school leavers,50-59,2014,50.55,13.75,22.95,12.76
+Australian Tertiary Admission Rank (ATAR)- for school leavers,50-59,2015,53.92,15.08,19.44,11.56
+Australian Tertiary Admission Rank (ATAR)- for school leavers,50-59,2016,53.54,15.2,19.71,11.55
+Australian Tertiary Admission Rank (ATAR)- for school leavers,50-59,2017,50.88,15.76,21.62,11.74
+Australian Tertiary Admission Rank (ATAR)- for school leavers,60-69,2005,57.51,13.35,17.14,12.01
+Australian Tertiary Admission Rank (ATAR)- for school leavers,60-69,2006,57.23,13.64,17.86,11.27
+Australian Tertiary Admission Rank (ATAR)- for school leavers,60-69,2007,56.66,14.62,16.67,12.05
+Australian Tertiary Admission Rank (ATAR)- for school leavers,60-69,2008,58.26,14.31,17.49,9.94
+Australian Tertiary Admission Rank (ATAR)- for school leavers,60-69,2009,56.66,15.22,18.45,9.67
+Australian Tertiary Admission Rank (ATAR)- for school leavers,60-69,2010,55.87,15.6,18.89,9.64
+Australian Tertiary Admission Rank (ATAR)- for school leavers,60-69,2011,55.96,14.32,20.07,9.65
+Australian Tertiary Admission Rank (ATAR)- for school leavers,60-69,2012,55.6,15.17,19.43,9.8
+Australian Tertiary Admission Rank (ATAR)- for school leavers,60-69,2013,55.37,14.88,18.95,10.8
+Australian Tertiary Admission Rank (ATAR)- for school leavers,60-69,2014,54.08,15.49,19.82,10.6
+Australian Tertiary Admission Rank (ATAR)- for school leavers,60-69,2015,56.41,15.25,18.08,10.26
+Australian Tertiary Admission Rank (ATAR)- for school leavers,60-69,2016,57.0,15.92,17.0,10.07
+Australian Tertiary Admission Rank (ATAR)- for school leavers,60-69,2017,55.78,15.29,18.57,10.37
+Australian Tertiary Admission Rank (ATAR)- for school leavers,70-79,2005,65.07,13.42,13.59,7.93
+Australian Tertiary Admission Rank (ATAR)- for school leavers,70-79,2006,67.42,12.41,13.25,6.92
+Australian Tertiary Admission Rank (ATAR)- for school leavers,70-79,2007,66.47,13.08,13.44,7.01
+Australian Tertiary Admission Rank (ATAR)- for school leavers,70-79,2008,67.53,13.32,13.39,5.77
+Australian Tertiary Admission Rank (ATAR)- for school leavers,70-79,2009,66.49,13.67,14.57,5.26
+Australian Tertiary Admission Rank (ATAR)- for school leavers,70-79,2010,64.9,14.32,14.47,6.32
+Australian Tertiary Admission Rank (ATAR)- for school leavers,70-79,2011,65.65,13.83,14.49,6.03
+Australian Tertiary Admission Rank (ATAR)- for school leavers,70-79,2012,64.99,14.27,14.65,6.09
+Australian Tertiary Admission Rank (ATAR)- for school leavers,70-79,2013,64.32,14.4,14.71,6.57
+Australian Tertiary Admission Rank (ATAR)- for school leavers,70-79,2014,64.8,14.38,14.1,6.72
+Australian Tertiary Admission Rank (ATAR)- for school leavers,70-79,2015,65.6,14.85,13.23,6.32
+Australian Tertiary Admission Rank (ATAR)- for school leavers,70-79,2016,65.05,14.77,13.81,6.37
+Australian Tertiary Admission Rank (ATAR)- for school leavers,70-79,2017,64.94,14.43,14.48,6.15
+Australian Tertiary Admission Rank (ATAR)- for school leavers,80-89,2005,75.2,11.38,9.12,4.3
+Australian Tertiary Admission Rank (ATAR)- for school leavers,80-89,2006,75.13,11.65,9.41,3.81
+Australian Tertiary Admission Rank (ATAR)- for school leavers,80-89,2007,75.73,11.69,8.74,3.83
+Australian Tertiary Admission Rank (ATAR)- for school leavers,80-89,2008,76.68,11.22,9.08,3.02
+Australian Tertiary Admission Rank (ATAR)- for school leavers,80-89,2009,76.17,12.04,8.84,2.95
+Australian Tertiary Admission Rank (ATAR)- for school leavers,80-89,2010,75.19,12.25,9.55,3.01
+Australian Tertiary Admission Rank (ATAR)- for school leavers,80-89,2011,75.4,12.26,9.49,2.85
+Australian Tertiary Admission Rank (ATAR)- for school leavers,80-89,2012,75.18,12.37,9.44,3.01
+Australian Tertiary Admission Rank (ATAR)- for school leavers,80-89,2013,75.05,12.3,9.49,3.16
+Australian Tertiary Admission Rank (ATAR)- for school leavers,80-89,2014,74.56,12.52,9.37,3.55
+Australian Tertiary Admission Rank (ATAR)- for school leavers,80-89,2015,75.45,12.43,8.87,3.24
+Australian Tertiary Admission Rank (ATAR)- for school leavers,80-89,2016,75.24,13.36,8.3,3.1
+Australian Tertiary Admission Rank (ATAR)- for school leavers,80-89,2017,73.92,13.17,9.47,3.44
+Australian Tertiary Admission Rank (ATAR)- for school leavers,90-94,2005,82.38,9.89,5.5,2.24
+Australian Tertiary Admission Rank (ATAR)- for school leavers,90-94,2006,83.27,9.79,5.14,1.8
+Australian Tertiary Admission Rank (ATAR)- for school leavers,90-94,2007,82.72,9.91,5.63,1.74
+Australian Tertiary Admission Rank (ATAR)- for school leavers,90-94,2008,84.4,8.84,5.36,1.41
+Australian Tertiary Admission Rank (ATAR)- for school leavers,90-94,2009,82.76,9.82,5.87,1.55
+Australian Tertiary Admission Rank (ATAR)- for school leavers,90-94,2010,83.01,9.97,5.41,1.61
+Australian Tertiary Admission Rank (ATAR)- for school leavers,90-94,2011,82.79,10.5,5.23,1.49
+Australian Tertiary Admission Rank (ATAR)- for school leavers,90-94,2012,82.84,9.81,5.86,1.5
+Australian Tertiary Admission Rank (ATAR)- for school leavers,90-94,2013,82.06,10.28,5.72,1.94
+Australian Tertiary Admission Rank (ATAR)- for school leavers,90-94,2014,81.85,10.36,5.73,2.06
+Australian Tertiary Admission Rank (ATAR)- for school leavers,90-94,2015,81.94,10.98,5.26,1.83
+Australian Tertiary Admission Rank (ATAR)- for school leavers,90-94,2016,82.09,10.87,5.59,1.45
+Australian Tertiary Admission Rank (ATAR)- for school leavers,90-94,2017,80.25,11.45,6.62,1.67
+Australian Tertiary Admission Rank (ATAR)- for school leavers,95-100,2005,87.28,8.54,3.23,0.95
+Australian Tertiary Admission Rank (ATAR)- for school leavers,95-100,2006,86.94,9.36,2.84,0.86
+Australian Tertiary Admission Rank (ATAR)- for school leavers,95-100,2007,86.91,8.65,3.3,1.13
+Australian Tertiary Admission Rank (ATAR)- for school leavers,95-100,2008,87.79,7.97,3.6,0.65
+Australian Tertiary Admission Rank (ATAR)- for school leavers,95-100,2009,87.62,8.18,3.31,0.88
+Australian Tertiary Admission Rank (ATAR)- for school leavers,95-100,2010,87.0,8.77,3.21,1.02
+Australian Tertiary Admission Rank (ATAR)- for school leavers,95-100,2011,88.22,7.99,3.03,0.75
+Australian Tertiary Admission Rank (ATAR)- for school leavers,95-100,2012,87.58,8.12,3.25,1.05
+Australian Tertiary Admission Rank (ATAR)- for school leavers,95-100,2013,88.36,7.57,2.99,1.07
+Australian Tertiary Admission Rank (ATAR)- for school leavers,95-100,2014,88.33,7.68,2.87,1.12
+Australian Tertiary Admission Rank (ATAR)- for school leavers,95-100,2015,88.01,8.02,2.93,1.04
+Australian Tertiary Admission Rank (ATAR)- for school leavers,95-100,2016,86.74,8.83,3.3,1.13
+Australian Tertiary Admission Rank (ATAR)- for school leavers,95-100,2017,86.48,8.32,3.99,1.2
+Australian Tertiary Admission Rank (ATAR)- for school leavers,ATAR not provided or not required,2005,63.4,10.73,14.64,11.23
+Australian Tertiary Admission Rank (ATAR)- for school leavers,ATAR not provided or not required,2006,63.25,10.63,15.28,10.84
+Australian Tertiary Admission Rank (ATAR)- for school leavers,ATAR not provided or not required,2007,62.48,11.14,15.61,10.77
+Australian Tertiary Admission Rank (ATAR)- for school leavers,ATAR not provided or not required,2008,62.97,11.13,15.89,10.01
+Australian Tertiary Admission Rank (ATAR)- for school leavers,ATAR not provided or not required,2009,63.01,11.39,16.25,9.35
+Australian Tertiary Admission Rank (ATAR)- for school leavers,ATAR not provided or not required,2010,62.03,11.49,16.57,9.92
+Australian Tertiary Admission Rank (ATAR)- for school leavers,ATAR not provided or not required,2011,61.94,11.72,16.79,9.56
+Australian Tertiary Admission Rank (ATAR)- for school leavers,ATAR not provided or not required,2012,60.31,11.76,17.6,10.33
+Australian Tertiary Admission Rank (ATAR)- for school leavers,ATAR not provided or not required,2013,58.83,11.61,17.76,11.81
+Australian Tertiary Admission Rank (ATAR)- for school leavers,ATAR not provided or not required,2014,58.11,12.04,17.91,11.94
+Australian Tertiary Admission Rank (ATAR)- for school leavers,ATAR not provided or not required,2015,58.02,12.81,17.61,11.56
+Australian Tertiary Admission Rank (ATAR)- for school leavers,ATAR not provided or not required,2016,58.45,13.39,17.35,10.81
+Australian Tertiary Admission Rank (ATAR)- for school leavers,ATAR not provided or not required,2017,57.52,12.87,18.25,11.35
+Indigenous Indicator,First Nations,2005,40.75,13.82,22.81,22.61
+Indigenous Indicator,First Nations,2006,40.95,13.43,25.87,19.75
+Indigenous Indicator,First Nations,2007,40.17,15.05,24.7,20.08
+Indigenous Indicator,First Nations,2008,41.12,14.44,26.26,18.18
+Indigenous Indicator,First Nations,2009,40.92,14.84,26.38,17.87
+Indigenous Indicator,First Nations,2010,40.5,15.04,25.91,18.56
+Indigenous Indicator,First Nations,2011,40.03,15.97,25.39,18.62
+Indigenous Indicator,First Nations,2012,41.28,16.48,24.48,17.77
+Indigenous Indicator,First Nations,2013,41.08,16.55,25.47,16.89
+Indigenous Indicator,First Nations,2014,41.1,15.97,25.59,17.34
+Indigenous Indicator,First Nations,2015,41.54,17.21,24.85,16.4
+Indigenous Indicator,First Nations,2016,41.28,18.14,24.87,15.71
+Indigenous Indicator,First Nations,2017,39.65,17.08,25.1,18.17
+Indigenous Indicator,Not Indigenous,2005,67.28,10.97,12.78,8.97
+Indigenous Indicator,Not Indigenous,2006,67.28,10.93,13.26,8.53
+Indigenous Indicator,Not Indigenous,2007,67.01,11.35,13.19,8.45
+Indigenous Indicator,Not Indigenous,2008,67.6,11.19,13.53,7.69
+Indigenous Indicator,Not Indigenous,2009,67.29,11.57,13.93,7.21
+Indigenous Indicator,Not Indigenous,2010,66.41,11.76,14.15,7.68
+Indigenous Indicator,Not Indigenous,2011,66.27,11.74,14.51,7.47
+Indigenous Indicator,Not Indigenous,2012,64.93,11.88,15.09,8.09
+Indigenous Indicator,Not Indigenous,2013,63.89,11.72,15.16,9.23
+Indigenous Indicator,Not Indigenous,2014,63.2,12.04,15.41,9.35
+Indigenous Indicator,Not Indigenous,2015,63.37,12.6,15.06,8.97
+Indigenous Indicator,Not Indigenous,2016,63.22,13.17,14.86,8.75
+Indigenous Indicator,Not Indigenous,2017,62.43,12.8,15.8,8.97
+Non-English Speaking Background (NESB) Indicator(a),Person from non-English speaking background,2005,72.5,9.96,10.98,6.57
+Non-English Speaking Background (NESB) Indicator(a),Person from non-English speaking background,2006,72.14,10.45,11.7,5.72
+Non-English Speaking Background (NESB) Indicator(a),Person from non-English speaking background,2007,71.23,11.13,11.87,5.77
+Non-English Speaking Background (NESB) Indicator(a),Person from non-English speaking background,2008,70.94,10.72,12.73,5.61
+Non-English Speaking Background (NESB) Indicator(a),Person from non-English speaking background,2009,71.14,11.04,12.61,5.21
+Non-English Speaking Background (NESB) Indicator(a),Person from non-English speaking background,2010,68.91,12.04,13.03,6.01
+Non-English Speaking Background (NESB) Indicator(a),Person from non-English speaking background,2011,68.83,11.28,14.29,5.6
+Non-English Speaking Background (NESB) Indicator(a),Person from non-English speaking background,2012,68.58,11.79,13.54,6.09
+Non-English Speaking Background (NESB) Indicator(a),Person from non-English speaking background,2013,67.99,11.09,14.06,6.86
+Non-English Speaking Background (NESB) Indicator(a),Person from non-English speaking background,2014,67.85,11.83,13.72,6.59
+Non-English Speaking Background (NESB) Indicator(a),Person from non-English speaking background,2015,67.43,12.43,13.15,6.99
+Non-English Speaking Background (NESB) Indicator(a),Person from non-English speaking background,2016,69.32,12.3,11.99,6.39
+Non-English Speaking Background (NESB) Indicator(a),Person from non-English speaking background,2017,68.91,12.34,12.25,6.5
+Non-English Speaking Background (NESB) Indicator(a),Person from English speaking background,2005,66.82,11.01,12.94,9.24
+Non-English Speaking Background (NESB) Indicator(a),Person from English speaking background,2006,66.65,10.99,13.49,8.88
+Non-English Speaking Background (NESB) Indicator(a),Person from English speaking background,2007,66.46,11.39,13.41,8.73
+Non-English Speaking Background (NESB) Indicator(a),Person from English speaking background,2008,67.03,11.24,13.76,7.97
+Non-English Speaking Background (NESB) Indicator(a),Person from English speaking background,2009,66.67,11.63,14.21,7.49
+Non-English Speaking Background (NESB) Indicator(a),Person from English speaking background,2010,65.86,11.78,14.41,7.94
+Non-English Speaking Background (NESB) Indicator(a),Person from English speaking background,2011,65.63,11.84,14.75,7.78
+Non-English Speaking Background (NESB) Indicator(a),Person from English speaking background,2012,64.28,11.95,15.37,8.39
+Non-English Speaking Background (NESB) Indicator(a),Person from English speaking background,2013,63.15,11.83,15.47,9.56
+Non-English Speaking Background (NESB) Indicator(a),Person from English speaking background,2014,62.17,12.13,15.81,9.9
+Non-English Speaking Background (NESB) Indicator(a),Person from English speaking background,2015,62.1,12.75,15.5,9.65
+Non-English Speaking Background (NESB) Indicator(a),Person from English speaking background,2016,62.33,13.31,15.28,9.08
+Non-English Speaking Background (NESB) Indicator(a),Person from English speaking background,2017,61.45,12.9,16.22,9.44
+Socio-Economic Status(b),Low SES,2005,62.9,11.13,14.97,11.0
+Socio-Economic Status(b),Low SES,2006,61.88,11.06,16.01,11.05
+Socio-Economic Status(b),Low SES,2007,61.75,12.18,15.49,10.59
+Socio-Economic Status(b),Low SES,2008,61.86,12.05,16.15,9.94
+Socio-Economic Status(b),Low SES,2009,61.46,12.49,16.95,9.1
+Socio-Economic Status(b),Low SES,2010,60.58,12.76,16.89,9.77
+Socio-Economic Status(b),Low SES,2011,59.87,12.6,17.89,9.64
+Socio-Economic Status(b),Low SES,2012,58.4,12.9,18.08,10.61
+Socio-Economic Status(b),Low SES,2013,57.03,12.7,18.28,12.0
+Socio-Economic Status(b),Low SES,2014,56.17,12.91,18.71,12.22
+Socio-Economic Status(b),Low SES,2015,55.76,13.56,18.79,11.89
+Socio-Economic Status(b),Low SES,2016,56.58,14.15,18.59,10.68
+Socio-Economic Status(b),Low SES,2017,55.09,13.8,19.34,11.77
+Socio-Economic Status(b),Medium SES,2005,65.98,11.17,13.25,9.6
+Socio-Economic Status(b),Medium SES,2006,65.82,11.0,13.86,9.32
+Socio-Economic Status(b),Medium SES,2007,65.38,11.5,13.9,9.22
+Socio-Economic Status(b),Medium SES,2008,66.24,11.25,14.23,8.28
+Socio-Economic Status(b),Medium SES,2009,65.79,11.55,14.73,7.93
+Socio-Economic Status(b),Medium SES,2010,64.87,11.75,15.08,8.31
+Socio-Economic Status(b),Medium SES,2011,64.52,11.94,15.39,8.14
+Socio-Economic Status(b),Medium SES,2012,63.37,11.98,15.9,8.75
+Socio-Economic Status(b),Medium SES,2013,62.16,11.96,16.0,9.88
+Socio-Economic Status(b),Medium SES,2014,61.19,12.28,16.37,10.16
+Socio-Economic Status(b),Medium SES,2015,60.84,13.04,15.98,10.14
+Socio-Economic Status(b),Medium SES,2016,61.26,13.47,15.63,9.65
+Socio-Economic Status(b),Medium SES,2017,60.54,13.02,16.61,9.83
+Socio-Economic Status(b),High SES,2005,70.87,10.6,11.25,7.28
+Socio-Economic Status(b),High SES,2006,70.73,10.94,11.48,6.84
+Socio-Economic Status(b),High SES,2007,70.85,10.9,11.51,6.75
+Socio-Economic Status(b),High SES,2008,71.28,10.85,11.71,6.16
+Socio-Economic Status(b),High SES,2009,71.19,11.28,11.84,5.7
+Socio-Economic Status(b),High SES,2010,70.53,11.4,11.93,6.14
+Socio-Economic Status(b),High SES,2011,70.8,11.26,12.03,5.91
+Socio-Economic Status(b),High SES,2012,69.32,11.47,12.89,6.32
+Socio-Economic Status(b),High SES,2013,68.61,11.14,12.93,7.33
+Socio-Economic Status(b),High SES,2014,67.99,11.48,12.95,7.58
+Socio-Economic Status(b),High SES,2015,68.75,11.82,12.4,7.03
+Socio-Economic Status(b),High SES,2016,68.71,12.45,12.15,6.7
+Socio-Economic Status(b),High SES,2017,67.99,12.13,13.04,6.84
+Regional Classification ( c ),Metropolitan,2005,68.25,11.01,12.35,8.39
+Regional Classification ( c ),Metropolitan,2006,67.95,11.11,12.94,7.99
+Regional Classification ( c ),Metropolitan,2007,67.84,11.4,12.78,7.98
+Regional Classification ( c ),Metropolitan,2008,68.24,11.29,13.23,7.24
+Regional Classification ( c ),Metropolitan,2009,67.91,11.62,13.66,6.8
+Regional Classification ( c ),Metropolitan,2010,66.89,11.93,13.81,7.37
+Regional Classification ( c ),Metropolitan,2011,67.15,11.81,14.05,6.98
+Regional Classification ( c ),Metropolitan,2012,65.54,11.98,14.9,7.59
+Regional Classification ( c ),Metropolitan,2013,64.61,11.86,14.92,8.6
+Regional Classification ( c ),Metropolitan,2014,63.9,12.22,15.12,8.75
+Regional Classification ( c ),Metropolitan,2015,63.84,12.7,14.78,8.67
+Regional Classification ( c ),Metropolitan,2016,63.81,13.35,14.57,8.26
+Regional Classification ( c ),Metropolitan,2017,62.98,13.05,15.49,8.48
+Regional Classification ( c ),Regional,2005,63.58,10.72,14.53,11.17
+Regional Classification ( c ),Regional,2006,63.02,10.46,15.09,11.43
+Regional Classification ( c ),Regional,2007,62.41,11.34,15.43,10.82
+Regional Classification ( c ),Regional,2008,63.68,10.93,15.4,9.98
+Regional Classification ( c ),Regional,2009,63.12,11.54,15.86,9.49
+Regional Classification ( c ),Regional,2010,62.73,11.37,16.42,9.47
+Regional Classification ( c ),Regional,2011,60.99,11.86,17.16,9.98
+Regional Classification ( c ),Regional,2012,60.57,11.98,16.81,10.65
+Regional Classification ( c ),Regional,2013,58.71,11.68,17.22,12.39
+Regional Classification ( c ),Regional,2014,57.37,11.84,17.8,12.98
+Regional Classification ( c ),Regional,2015,57.17,12.91,17.5,12.42
+Regional Classification ( c ),Regional,2016,58.49,13.01,17.14,11.37
+Regional Classification ( c ),Regional,2017,57.26,12.33,18.13,12.28
+Regional Classification ( c ),Remote,2005,52.95,11.9,18.46,16.69
+Regional Classification ( c ),Remote,2006,54.32,11.26,18.37,16.05
+Regional Classification ( c ),Remote,2007,53.69,12.75,18.96,14.6
+Regional Classification ( c ),Remote,2008,50.41,13.41,19.91,16.28
+Regional Classification ( c ),Remote,2009,53.72,14.07,19.11,13.1
+Regional Classification ( c ),Remote,2010,54.35,12.27,18.99,14.39
+Regional Classification ( c ),Remote,2011,54.06,13.63,17.6,14.71
+Regional Classification ( c ),Remote,2012,53.87,12.86,18.04,15.24
+Regional Classification ( c ),Remote,2013,54.15,13.08,18.82,13.94
+Regional Classification ( c ),Remote,2014,51.02,13.56,19.91,15.5
+Regional Classification ( c ),Remote,2015,49.98,15.09,21.03,13.9
+Regional Classification ( c ),Remote,2016,51.69,15.98,19.19,13.14
+Regional Classification ( c ),Remote,2017,52.87,13.3,20.05,13.78
+Liability Category,Commonwealth Assisted students,2005,66.99,11.08,12.88,9.05
+Liability Category,Commonwealth Assisted students,2006,66.7,11.07,13.47,8.76
+Liability Category,Commonwealth Assisted students,2007,66.54,11.46,13.39,8.61
+Liability Category,Commonwealth Assisted students,2008,67.08,11.29,13.78,7.85
+Liability Category,Commonwealth Assisted students,2009,66.78,11.65,14.18,7.39
+Liability Category,Commonwealth Assisted students,2010,65.92,11.83,14.39,7.86
+Liability Category,Commonwealth Assisted students,2011,65.73,11.84,14.75,7.69
+Liability Category,Commonwealth Assisted students,2012,64.4,11.98,15.31,8.3
+Liability Category,Commonwealth Assisted students,2013,63.29,11.83,15.43,9.45
+Liability Category,Commonwealth Assisted students,2014,62.35,12.14,15.74,9.77
+Liability Category,Commonwealth Assisted students,2015,62.28,12.77,15.42,9.53
+Liability Category,Commonwealth Assisted students,2016,62.57,13.3,15.16,8.97
+Liability Category,Commonwealth Assisted students,2017,61.71,12.9,16.07,9.31
+Liability Category,Non- Commonwealth Assisted students,2005,68.78,5.3,12.17,13.74
+Liability Category,Non- Commonwealth Assisted students,2006,73.53,6.36,11.15,8.96
+Liability Category,Non- Commonwealth Assisted students,2007,71.67,7.17,11.61,9.55
+Liability Category,Non- Commonwealth Assisted students,2008,72.77,7.04,10.43,9.76
+Liability Category,Non- Commonwealth Assisted students,2009,75.02,5.45,9.95,9.58
+Liability Category,Non- Commonwealth Assisted students,2010,75.38,5.19,9.58,9.85
+Liability Category,Non- Commonwealth Assisted students,2011,70.49,6.85,11.76,10.9
+Liability Category,Non- Commonwealth Assisted students,2012,75.8,3.66,12.21,8.32
+Liability Category,Non- Commonwealth Assisted students,2013,75.11,5.16,8.97,10.76
+Liability Category,Non- Commonwealth Assisted students,2014,77.4,5.17,9.69,7.75
+Liability Category,Non- Commonwealth Assisted students,2015,75.55,5.15,9.54,9.76
+Liability Category,Non- Commonwealth Assisted students,2016,81.59,3.49,8.47,6.46
+Liability Category,Non- Commonwealth Assisted students,2017,79.16,5.39,7.49,7.96
+Broad Field of Education(d),Natural and Physical Sciences,2005,70.39,12.05,11.25,6.31
+Broad Field of Education(d),Natural and Physical Sciences,2006,70.48,12.58,11.04,5.9
+Broad Field of Education(d),Natural and Physical Sciences,2007,69.58,12.69,11.79,5.93
+Broad Field of Education(d),Natural and Physical Sciences,2008,70.82,12.25,11.55,5.38
+Broad Field of Education(d),Natural and Physical Sciences,2009,70.19,12.77,12.13,4.91
+Broad Field of Education(d),Natural and Physical Sciences,2010,69.86,13.3,11.69,5.15
+Broad Field of Education(d),Natural and Physical Sciences,2011,69.97,13.14,12.06,4.83
+Broad Field of Education(d),Natural and Physical Sciences,2012,69.3,12.81,12.69,5.21
+Broad Field of Education(d),Natural and Physical Sciences,2013,68.74,12.45,12.76,6.04
+Broad Field of Education(d),Natural and Physical Sciences,2014,69.26,12.68,12.26,5.8
+Broad Field of Education(d),Natural and Physical Sciences,2015,68.87,13.49,12.02,5.62
+Broad Field of Education(d),Natural and Physical Sciences,2016,68.03,14.59,12.05,5.32
+Broad Field of Education(d),Natural and Physical Sciences,2017,67.78,13.98,12.6,5.63
+Broad Field of Education(d),Information Technology,2005,56.1,13.09,18.57,12.24
+Broad Field of Education(d),Information Technology,2006,55.39,12.28,19.97,12.35
+Broad Field of Education(d),Information Technology,2007,56.01,13.64,18.63,11.72
+Broad Field of Education(d),Information Technology,2008,56.61,13.19,19.34,10.87
+Broad Field of Education(d),Information Technology,2009,56.75,13.15,20.22,9.88
+Broad Field of Education(d),Information Technology,2010,57.23,14.01,19.12,9.64
+Broad Field of Education(d),Information Technology,2011,54.62,14.95,21.26,9.17
+Broad Field of Education(d),Information Technology,2012,55.18,14.0,21.28,9.54
+Broad Field of Education(d),Information Technology,2013,54.32,13.33,21.91,10.44
+Broad Field of Education(d),Information Technology,2014,54.23,13.55,22.07,10.16
+Broad Field of Education(d),Information Technology,2015,54.89,13.77,21.16,10.19
+Broad Field of Education(d),Information Technology,2016,55.15,14.96,19.81,10.08
+Broad Field of Education(d),Information Technology,2017,54.6,14.09,21.58,9.73
+Broad Field of Education(d),Engineering and Related Technologies,2005,63.04,18.2,12.4,6.36
+Broad Field of Education(d),Engineering and Related Technologies,2006,62.84,18.44,13.1,5.62
+Broad Field of Education(d),Engineering and Related Technologies,2007,62.85,18.8,13.07,5.28
+Broad Field of Education(d),Engineering and Related Technologies,2008,61.97,18.65,14.49,4.88
+Broad Field of Education(d),Engineering and Related Technologies,2009,62.31,19.1,13.79,4.8
+Broad Field of Education(d),Engineering and Related Technologies,2010,63.14,18.4,13.46,4.99
+Broad Field of Education(d),Engineering and Related Technologies,2011,63.29,18.73,13.57,4.42
+Broad Field of Education(d),Engineering and Related Technologies,2012,61.25,19.21,14.48,5.06
+Broad Field of Education(d),Engineering and Related Technologies,2013,61.96,17.99,14.43,5.62
+Broad Field of Education(d),Engineering and Related Technologies,2014,61.59,18.85,13.97,5.59
+Broad Field of Education(d),Engineering and Related Technologies,2015,60.76,19.75,13.97,5.53
+Broad Field of Education(d),Engineering and Related Technologies,2016,59.82,21.13,13.32,5.73
+Broad Field of Education(d),Engineering and Related Technologies,2017,59.21,19.81,15.51,5.46
+Broad Field of Education(d),Architecture and Building,2005,71.98,10.9,10.83,6.29
+Broad Field of Education(d),Architecture and Building,2006,72.83,10.54,10.18,6.45
+Broad Field of Education(d),Architecture and Building,2007,69.92,10.78,12.0,7.3
+Broad Field of Education(d),Architecture and Building,2008,68.22,11.53,13.64,6.61
+Broad Field of Education(d),Architecture and Building,2009,69.14,10.84,13.54,6.48
+Broad Field of Education(d),Architecture and Building,2010,68.57,10.99,13.41,7.03
+Broad Field of Education(d),Architecture and Building,2011,68.08,11.54,13.11,7.26
+Broad Field of Education(d),Architecture and Building,2012,67.58,10.13,14.64,7.64
+Broad Field of Education(d),Architecture and Building,2013,66.56,10.14,14.59,8.71
+Broad Field of Education(d),Architecture and Building,2014,67.46,10.68,13.82,8.04
+Broad Field of Education(d),Architecture and Building,2015,66.51,11.17,13.98,8.33
+Broad Field of Education(d),Architecture and Building,2016,68.75,11.54,12.34,7.37
+Broad Field of Education(d),Architecture and Building,2017,66.83,10.64,15.01,7.52
+Broad Field of Education(d),"Agriculture, Environmental & Related Studies",2005,59.9,11.62,16.04,12.44
+Broad Field of Education(d),"Agriculture, Environmental & Related Studies",2006,59.84,12.01,17.4,10.75
+Broad Field of Education(d),"Agriculture, Environmental & Related Studies",2007,60.78,11.1,16.42,11.7
+Broad Field of Education(d),"Agriculture, Environmental & Related Studies",2008,62.63,11.85,16.03,9.5
+Broad Field of Education(d),"Agriculture, Environmental & Related Studies",2009,60.48,13.11,16.4,10.01
+Broad Field of Education(d),"Agriculture, Environmental & Related Studies",2010,60.49,12.73,16.38,10.39
+Broad Field of Education(d),"Agriculture, Environmental & Related Studies",2011,60.0,12.66,17.58,9.76
+Broad Field of Education(d),"Agriculture, Environmental & Related Studies",2012,60.51,11.86,17.35,10.29
+Broad Field of Education(d),"Agriculture, Environmental & Related Studies",2013,62.64,11.04,16.31,10.02
+Broad Field of Education(d),"Agriculture, Environmental & Related Studies",2014,60.16,12.59,16.62,10.63
+Broad Field of Education(d),"Agriculture, Environmental & Related Studies",2015,60.31,12.98,15.97,10.74
+Broad Field of Education(d),"Agriculture, Environmental & Related Studies",2016,62.72,11.47,15.85,9.96
+Broad Field of Education(d),"Agriculture, Environmental & Related Studies",2017,58.67,12.75,17.59,10.99
+Broad Field of Education(d),Health,2005,77.1,6.95,9.02,6.93
+Broad Field of Education(d),Health,2006,76.68,7.18,9.4,6.74
+Broad Field of Education(d),Health,2007,75.86,7.75,9.71,6.67
+Broad Field of Education(d),Health,2008,76.39,7.5,9.83,6.28
+Broad Field of Education(d),Health,2009,75.26,8.34,10.21,6.19
+Broad Field of Education(d),Health,2010,74.62,8.37,10.55,6.46
+Broad Field of Education(d),Health,2011,73.16,8.74,11.5,6.6
+Broad Field of Education(d),Health,2012,71.58,9.13,11.82,7.47
+Broad Field of Education(d),Health,2013,70.43,9.11,11.77,8.69
+Broad Field of Education(d),Health,2014,69.11,9.2,12.58,9.11
+Broad Field of Education(d),Health,2015,68.57,9.65,12.98,8.8
+Broad Field of Education(d),Health,2016,68.62,9.94,12.84,8.6
+Broad Field of Education(d),Health,2017,67.75,9.74,13.03,9.48
+Broad Field of Education(d),Education,2005,70.27,7.82,11.76,10.15
+Broad Field of Education(d),Education,2006,68.42,8.51,12.81,10.26
+Broad Field of Education(d),Education,2007,66.99,9.01,13.32,10.67
+Broad Field of Education(d),Education,2008,65.59,9.6,14.41,10.4
+Broad Field of Education(d),Education,2009,63.52,10.32,16.07,10.09
+Broad Field of Education(d),Education,2010,61.98,10.56,16.66,10.8
+Broad Field of Education(d),Education,2011,62.49,10.37,16.73,10.42
+Broad Field of Education(d),Education,2012,60.29,11.29,17.66,10.76
+Broad Field of Education(d),Education,2013,56.97,12.05,18.19,12.79
+Broad Field of Education(d),Education,2014,54.79,12.68,19.15,13.39
+Broad Field of Education(d),Education,2015,52.92,14.59,19.28,13.21
+Broad Field of Education(d),Education,2016,53.55,15.01,19.12,12.33
+Broad Field of Education(d),Education,2017,51.05,15.05,21.03,12.87
+Broad Field of Education(d),Management and Commerce,2005,65.71,11.21,13.64,9.44
+Broad Field of Education(d),Management and Commerce,2006,65.54,11.21,14.18,9.07
+Broad Field of Education(d),Management and Commerce,2007,66.02,11.44,14.01,8.53
+Broad Field of Education(d),Management and Commerce,2008,67.25,11.26,14.19,7.31
+Broad Field of Education(d),Management and Commerce,2009,67.23,11.23,14.48,7.06
+Broad Field of Education(d),Management and Commerce,2010,66.38,11.53,14.6,7.49
+Broad Field of Education(d),Management and Commerce,2011,66.7,11.26,14.65,7.39
+Broad Field of Education(d),Management and Commerce,2012,64.82,11.57,15.4,8.21
+Broad Field of Education(d),Management and Commerce,2013,63.98,11.14,15.42,9.47
+Broad Field of Education(d),Management and Commerce,2014,61.77,11.58,15.98,10.66
+Broad Field of Education(d),Management and Commerce,2015,63.27,12.0,14.54,10.19
+Broad Field of Education(d),Management and Commerce,2016,63.96,12.39,14.88,8.77
+Broad Field of Education(d),Management and Commerce,2017,64.2,11.68,15.43,8.7
+Broad Field of Education(d),Society and Culture,2005,63.47,13.52,13.48,9.53
+Broad Field of Education(d),Society and Culture,2006,62.62,13.3,14.71,9.37
+Broad Field of Education(d),Society and Culture,2007,62.47,13.94,14.37,9.22
+Broad Field of Education(d),Society and Culture,2008,63.15,13.74,14.67,8.44
+Broad Field of Education(d),Society and Culture,2009,63.46,13.8,15.15,7.59
+Broad Field of Education(d),Society and Culture,2010,62.61,13.83,15.29,8.28
+Broad Field of Education(d),Society and Culture,2011,62.57,13.75,15.57,8.11
+Broad Field of Education(d),Society and Culture,2012,60.75,14.08,16.47,8.7
+Broad Field of Education(d),Society and Culture,2013,60.26,14.0,16.46,9.28
+Broad Field of Education(d),Society and Culture,2014,59.93,14.14,16.71,9.22
+Broad Field of Education(d),Society and Culture,2015,59.68,14.66,16.37,9.29
+Broad Field of Education(d),Society and Culture,2016,59.24,15.55,16.18,9.03
+Broad Field of Education(d),Society and Culture,2017,57.98,15.48,17.27,9.27
+Broad Field of Education(d),Creative Arts,2005,70.23,8.24,13.28,8.26
+Broad Field of Education(d),Creative Arts,2006,70.23,8.76,12.99,8.02
+Broad Field of Education(d),Creative Arts,2007,70.0,9.09,12.74,8.17
+Broad Field of Education(d),Creative Arts,2008,70.09,8.76,13.19,7.95
+Broad Field of Education(d),Creative Arts,2009,69.87,9.26,13.66,7.21
+Broad Field of Education(d),Creative Arts,2010,68.76,9.37,14.4,7.46
+Broad Field of Education(d),Creative Arts,2011,68.16,9.35,14.73,7.75
+Broad Field of Education(d),Creative Arts,2012,67.73,9.15,14.91,8.21
+Broad Field of Education(d),Creative Arts,2013,64.71,9.2,15.66,10.43
+Broad Field of Education(d),Creative Arts,2014,65.86,9.04,14.91,10.19
+Broad Field of Education(d),Creative Arts,2015,65.27,10.27,14.82,9.64
+Broad Field of Education(d),Creative Arts,2016,65.78,10.69,14.59,8.94
+Broad Field of Education(d),Creative Arts,2017,64.76,10.18,15.78,9.27
+Broad Field of Education(d),"Food, Hospitality and Personal Services",2005,84.0,8.0,4.0,4.0
+Broad Field of Education(d),"Food, Hospitality and Personal Services",2006,50.0,18.75,25.0,6.25
+Broad Field of Education(d),"Food, Hospitality and Personal Services",2007,82.35,11.76,5.88,0.0
+Broad Field of Education(d),"Food, Hospitality and Personal Services",2008,76.19,4.76,4.76,14.29
+Broad Field of Education(d),"Food, Hospitality and Personal Services",2009,55.56,5.56,38.89,0.0
+Study Areas(g),Science and Mathematics,2005,70.39,12.05,11.25,6.31
+Study Areas(g),Science and Mathematics,2006,70.48,12.58,11.04,5.9
+Study Areas(g),Science and Mathematics,2007,69.58,12.69,11.79,5.93
+Study Areas(g),Science and Mathematics,2008,70.82,12.25,11.55,5.38
+Study Areas(g),Science and Mathematics,2009,70.19,12.77,12.13,4.91
+Study Areas(g),Science and Mathematics,2010,69.86,13.3,11.69,5.15
+Study Areas(g),Science and Mathematics,2011,69.97,13.14,12.06,4.83
+Study Areas(g),Science and Mathematics,2012,69.3,12.81,12.69,5.21
+Study Areas(g),Science and Mathematics,2013,68.74,12.45,12.76,6.04
+Study Areas(g),Science and Mathematics,2014,69.26,12.68,12.26,5.8
+Study Areas(g),Science and Mathematics,2015,68.87,13.49,12.02,5.62
+Study Areas(g),Science and Mathematics,2016,68.03,14.59,12.05,5.32
+Study Areas(g),Science and Mathematics,2017,67.78,13.98,12.6,5.63
+Study Areas(g),Computing and Information Systems,2005,56.1,13.09,18.57,12.24
+Study Areas(g),Computing and Information Systems,2006,55.39,12.28,19.97,12.35
+Study Areas(g),Computing and Information Systems,2007,56.01,13.64,18.63,11.72
+Study Areas(g),Computing and Information Systems,2008,56.61,13.19,19.34,10.87
+Study Areas(g),Computing and Information Systems,2009,56.75,13.15,20.22,9.88
+Study Areas(g),Computing and Information Systems,2010,57.23,14.01,19.12,9.64
+Study Areas(g),Computing and Information Systems,2011,54.62,14.95,21.26,9.17
+Study Areas(g),Computing and Information Systems,2012,55.18,14.0,21.28,9.54
+Study Areas(g),Computing and Information Systems,2013,54.32,13.33,21.91,10.44
+Study Areas(g),Computing and Information Systems,2014,54.23,13.55,22.07,10.16
+Study Areas(g),Computing and Information Systems,2015,54.89,13.77,21.16,10.19
+Study Areas(g),Computing and Information Systems,2016,55.15,14.96,19.81,10.08
+Study Areas(g),Computing and Information Systems,2017,54.6,14.09,21.58,9.73
+Study Areas(g),Engineering,2005,63.04,18.2,12.4,6.36
+Study Areas(g),Engineering,2006,62.84,18.44,13.1,5.62
+Study Areas(g),Engineering,2007,62.85,18.8,13.07,5.28
+Study Areas(g),Engineering,2008,61.97,18.65,14.49,4.88
+Study Areas(g),Engineering,2009,62.31,19.1,13.79,4.8
+Study Areas(g),Engineering,2010,63.14,18.4,13.46,4.99
+Study Areas(g),Engineering,2011,63.29,18.73,13.57,4.42
+Study Areas(g),Engineering,2012,61.25,19.21,14.48,5.06
+Study Areas(g),Engineering,2013,61.96,17.99,14.43,5.62
+Study Areas(g),Engineering,2014,61.59,18.85,13.97,5.59
+Study Areas(g),Engineering,2015,60.76,19.75,13.97,5.53
+Study Areas(g),Engineering,2016,59.82,21.13,13.32,5.73
+Study Areas(g),Engineering,2017,59.21,19.81,15.51,5.46
+Study Areas(g),Architecture and Building,2005,71.98,10.9,10.83,6.29
+Study Areas(g),Architecture and Building,2006,72.83,10.54,10.18,6.45
+Study Areas(g),Architecture and Building,2007,69.92,10.78,12.0,7.3
+Study Areas(g),Architecture and Building,2008,68.22,11.53,13.64,6.61
+Study Areas(g),Architecture and Building,2009,69.14,10.84,13.54,6.48
+Study Areas(g),Architecture and Building,2010,68.57,10.99,13.41,7.03
+Study Areas(g),Architecture and Building,2011,68.08,11.54,13.11,7.26
+Study Areas(g),Architecture and Building,2012,67.58,10.13,14.64,7.64
+Study Areas(g),Architecture and Building,2013,66.56,10.14,14.59,8.71
+Study Areas(g),Architecture and Building,2014,67.46,10.68,13.82,8.04
+Study Areas(g),Architecture and Building,2015,66.51,11.17,13.98,8.33
+Study Areas(g),Architecture and Building,2016,68.75,11.54,12.34,7.37
+Study Areas(g),Architecture and Building,2017,66.83,10.64,15.01,7.52
+Study Areas(g),Agriculture and Environmental Studies,2005,59.9,11.62,16.04,12.44
+Study Areas(g),Agriculture and Environmental Studies,2006,59.84,12.01,17.4,10.75
+Study Areas(g),Agriculture and Environmental Studies,2007,60.78,11.1,16.42,11.7
+Study Areas(g),Agriculture and Environmental Studies,2008,62.63,11.85,16.03,9.5
+Study Areas(g),Agriculture and Environmental Studies,2009,60.48,13.11,16.4,10.01
+Study Areas(g),Agriculture and Environmental Studies,2010,60.49,12.73,16.38,10.39
+Study Areas(g),Agriculture and Environmental Studies,2011,60.0,12.66,17.58,9.76
+Study Areas(g),Agriculture and Environmental Studies,2012,60.51,11.86,17.35,10.29
+Study Areas(g),Agriculture and Environmental Studies,2013,62.64,11.04,16.31,10.02
+Study Areas(g),Agriculture and Environmental Studies,2014,60.16,12.59,16.62,10.63
+Study Areas(g),Agriculture and Environmental Studies,2015,60.31,12.98,15.97,10.74
+Study Areas(g),Agriculture and Environmental Studies,2016,62.72,11.47,15.85,9.96
+Study Areas(g),Agriculture and Environmental Studies,2017,58.67,12.75,17.59,10.99
+Study Areas(g),Health Services and Support,2005,72.57,8.32,10.74,8.38
+Study Areas(g),Health Services and Support,2006,73.07,8.33,10.58,8.02
+Study Areas(g),Health Services and Support,2007,73.04,8.84,10.68,7.44
+Study Areas(g),Health Services and Support,2008,74.93,8.05,10.36,6.67
+Study Areas(g),Health Services and Support,2009,73.22,9.73,11.2,5.84
+Study Areas(g),Health Services and Support,2010,72.65,9.49,11.24,6.62
+Study Areas(g),Health Services and Support,2011,71.04,9.97,12.44,6.55
+Study Areas(g),Health Services and Support,2012,68.88,10.28,12.85,7.98
+Study Areas(g),Health Services and Support,2013,67.65,10.31,12.62,9.43
+Study Areas(g),Health Services and Support,2014,67.19,10.26,13.36,9.19
+Study Areas(g),Health Services and Support,2015,65.99,10.86,13.87,9.29
+Study Areas(g),Health Services and Support,2016,65.85,11.41,13.85,8.89
+Study Areas(g),Health Services and Support,2017,65.42,10.97,13.57,10.04
+Study Areas(g),Medicine,2005,87.25,8.66,2.71,1.38
+Study Areas(g),Medicine,2006,87.47,8.3,2.74,1.49
+Study Areas(g),Medicine,2007,87.27,8.22,3.23,1.27
+Study Areas(g),Medicine,2008,88.94,6.74,2.65,1.68
+Study Areas(g),Medicine,2009,88.11,7.97,2.68,1.24
+Study Areas(g),Medicine,2010,87.67,7.56,3.32,1.46
+Study Areas(g),Medicine,2011,87.18,7.61,3.62,1.59
+Study Areas(g),Medicine,2012,86.28,8.04,3.55,2.13
+Study Areas(g),Medicine,2013,78.6,7.39,7.99,6.01
+Study Areas(g),Medicine,2014,82.29,9.29,6.08,2.34
+Study Areas(g),Medicine,2015,92.17,5.37,2.03,0.44
+Study Areas(g),Medicine,2016,92.34,5.43,1.75,0.48
+Study Areas(g),Medicine,2017,90.94,6.74,1.49,0.83
+Study Areas(g),Nursing,2005,73.82,6.27,10.99,8.92
+Study Areas(g),Nursing,2006,72.27,6.64,12.23,8.86
+Study Areas(g),Nursing,2007,70.35,7.61,12.85,9.19
+Study Areas(g),Nursing,2008,69.55,7.62,13.8,9.02
+Study Areas(g),Nursing,2009,69.43,7.78,13.53,9.26
+Study Areas(g),Nursing,2010,69.06,7.8,14.09,9.06
+Study Areas(g),Nursing,2011,67.49,8.3,14.8,9.41
+Study Areas(g),Nursing,2012,67.51,8.43,14.52,9.55
+Study Areas(g),Nursing,2013,67.76,8.52,13.49,10.23
+Study Areas(g),Nursing,2014,65.51,8.18,14.68,11.64
+Study Areas(g),Nursing,2015,66.5,8.76,14.57,10.17
+Study Areas(g),Nursing,2016,66.18,8.99,14.45,10.39
+Study Areas(g),Nursing,2017,65.8,8.66,14.66,10.88
+Study Areas(g),Pharmacy,2005,90.9,4.9,2.97,1.22
+Study Areas(g),Pharmacy,2006,89.15,6.24,3.16,1.45
+Study Areas(g),Pharmacy,2007,88.8,6.06,3.76,1.38
+Study Areas(g),Pharmacy,2008,87.81,7.16,3.81,1.22
+Study Areas(g),Pharmacy,2009,87.04,7.09,4.35,1.53
+Study Areas(g),Pharmacy,2010,86.32,8.72,3.56,1.4
+Study Areas(g),Pharmacy,2011,83.37,9.68,5.33,1.61
+Study Areas(g),Pharmacy,2012,81.15,10.67,5.9,2.28
+Study Areas(g),Pharmacy,2013,79.66,10.24,6.78,3.32
+Study Areas(g),Pharmacy,2014,77.64,10.7,7.35,4.32
+Study Areas(g),Pharmacy,2015,73.49,10.32,8.78,7.41
+Study Areas(g),Pharmacy,2016,76.22,12.02,8.34,3.42
+Study Areas(g),Pharmacy,2017,73.44,12.71,8.39,5.46
+Study Areas(g),Dentistry,2005,92.15,3.83,2.3,1.72
+Study Areas(g),Dentistry,2006,92.92,3.11,2.25,1.73
+Study Areas(g),Dentistry,2007,90.65,3.33,4.12,1.9
+Study Areas(g),Dentistry,2008,92.07,4.12,2.9,0.91
+Study Areas(g),Dentistry,2009,91.05,5.37,2.34,1.24
+Study Areas(g),Dentistry,2010,90.3,5.96,2.22,1.52
+Study Areas(g),Dentistry,2011,92.35,3.83,2.81,1.02
+Study Areas(g),Dentistry,2012,89.05,4.38,4.09,2.48
+Study Areas(g),Dentistry,2013,90.35,4.44,2.91,2.3
+Study Areas(g),Dentistry,2014,90.3,4.63,3.76,1.3
+Study Areas(g),Dentistry,2015,91.51,3.57,3.23,1.7
+Study Areas(g),Dentistry,2016,89.14,6.03,3.17,1.66
+Study Areas(g),Dentistry,2017,87.98,5.79,3.86,2.37
+Study Areas(g),Veterinary Science,2005,89.93,6.09,3.28,0.7
+Study Areas(g),Veterinary Science,2006,85.03,10.18,3.79,1.0
+Study Areas(g),Veterinary Science,2007,84.03,10.65,4.18,1.14
+Study Areas(g),Veterinary Science,2008,81.39,11.97,4.21,2.43
+Study Areas(g),Veterinary Science,2009,84.27,10.84,3.5,1.4
+Study Areas(g),Veterinary Science,2010,84.81,10.68,3.16,1.35
+Study Areas(g),Veterinary Science,2011,82.88,11.19,4.07,1.86
+Study Areas(g),Veterinary Science,2012,80.94,10.74,4.24,4.08
+Study Areas(g),Veterinary Science,2013,84.52,10.12,2.98,2.38
+Study Areas(g),Veterinary Science,2014,76.12,11.06,8.59,4.24
+Study Areas(g),Veterinary Science,2015,71.6,15.47,8.18,4.75
+Study Areas(g),Veterinary Science,2016,72.38,11.76,9.57,6.28
+Study Areas(g),Veterinary Science,2017,65.43,17.09,12.66,4.82
+Study Areas(g),Rehabilitation,2005,88.79,4.86,4.52,1.83
+Study Areas(g),Rehabilitation,2006,89.2,4.63,4.25,1.92
+Study Areas(g),Rehabilitation,2007,89.51,4.72,3.45,2.31
+Study Areas(g),Rehabilitation,2008,88.29,5.18,4.24,2.29
+Study Areas(g),Rehabilitation,2009,87.57,6.26,4.16,2.01
+Study Areas(g),Rehabilitation,2010,87.49,6.17,4.06,2.29
+Study Areas(g),Rehabilitation,2011,86.61,5.82,5.31,2.26
+Study Areas(g),Rehabilitation,2012,85.51,6.78,5.3,2.4
+Study Areas(g),Rehabilitation,2013,83.8,7.35,6.15,2.7
+Study Areas(g),Rehabilitation,2014,83.56,7.94,5.54,2.96
+Study Areas(g),Rehabilitation,2015,82.52,7.89,6.58,3.02
+Study Areas(g),Rehabilitation,2016,83.55,7.91,5.82,2.72
+Study Areas(g),Rehabilitation,2017,83.27,6.45,6.7,3.58
+Study Areas(g),Teacher Education,2005,70.27,7.82,11.76,10.15
+Study Areas(g),Teacher Education,2006,68.42,8.51,12.81,10.26
+Study Areas(g),Teacher Education,2007,66.99,9.01,13.32,10.67
+Study Areas(g),Teacher Education,2008,65.59,9.6,14.41,10.4
+Study Areas(g),Teacher Education,2009,63.52,10.32,16.07,10.09
+Study Areas(g),Teacher Education,2010,61.98,10.56,16.66,10.8
+Study Areas(g),Teacher Education,2011,62.49,10.37,16.73,10.42
+Study Areas(g),Teacher Education,2012,60.29,11.29,17.66,10.76
+Study Areas(g),Teacher Education,2013,56.97,12.05,18.19,12.79
+Study Areas(g),Teacher Education,2014,54.79,12.68,19.15,13.39
+Study Areas(g),Teacher Education,2015,52.92,14.59,19.28,13.21
+Study Areas(g),Teacher Education,2016,53.55,15.01,19.12,12.33
+Study Areas(g),Teacher Education,2017,51.05,15.05,21.03,12.87
+Study Areas(g),Business and Management,2005,66.18,11.21,13.43,9.17
+Study Areas(g),Business and Management,2006,66.02,11.22,14.03,8.73
+Study Areas(g),Business and Management,2007,66.42,11.53,13.82,8.23
+Study Areas(g),Business and Management,2008,67.67,11.3,13.97,7.05
+Study Areas(g),Business and Management,2009,67.68,11.28,14.21,6.84
+Study Areas(g),Business and Management,2010,66.82,11.52,14.42,7.23
+Study Areas(g),Business and Management,2011,67.23,11.25,14.39,7.13
+Study Areas(g),Business and Management,2012,65.28,11.56,15.17,7.99
+Study Areas(g),Business and Management,2013,64.65,11.11,15.13,9.12
+Study Areas(g),Business and Management,2014,62.45,11.54,15.67,10.35
+Study Areas(g),Business and Management,2015,64.0,12.0,14.27,9.73
+Study Areas(g),Business and Management,2016,64.66,12.38,14.57,8.39
+Study Areas(g),Business and Management,2017,64.78,11.75,15.12,8.35
+Study Areas(g),"Humanities, Culture and Social Sciences",2005,62.74,13.82,13.76,9.68
+Study Areas(g),"Humanities, Culture and Social Sciences",2006,61.89,13.72,15.05,9.34
+Study Areas(g),"Humanities, Culture and Social Sciences",2007,61.45,14.22,14.71,9.62
+Study Areas(g),"Humanities, Culture and Social Sciences",2008,62.94,13.91,14.97,8.19
+Study Areas(g),"Humanities, Culture and Social Sciences",2009,63.44,13.85,15.38,7.33
+Study Areas(g),"Humanities, Culture and Social Sciences",2010,63.27,13.65,15.38,7.7
+Study Areas(g),"Humanities, Culture and Social Sciences",2011,62.83,13.58,15.75,7.84
+Study Areas(g),"Humanities, Culture and Social Sciences",2012,61.76,13.67,16.41,8.16
+Study Areas(g),"Humanities, Culture and Social Sciences",2013,61.1,13.72,16.44,8.74
+Study Areas(g),"Humanities, Culture and Social Sciences",2014,60.68,14.18,16.65,8.49
+Study Areas(g),"Humanities, Culture and Social Sciences",2015,60.06,14.52,16.39,9.04
+Study Areas(g),"Humanities, Culture and Social Sciences",2016,59.5,15.73,16.34,8.43
+Study Areas(g),"Humanities, Culture and Social Sciences",2017,58.32,15.65,17.18,8.85
+Study Areas(g),Social Work,2005,58.23,12.28,16.29,13.2
+Study Areas(g),Social Work,2006,54.51,12.5,17.62,15.37
+Study Areas(g),Social Work,2007,56.54,11.79,17.41,14.26
+Study Areas(g),Social Work,2008,55.24,12.35,18.16,14.24
+Study Areas(g),Social Work,2009,55.16,13.02,18.26,13.56
+Study Areas(g),Social Work,2010,56.27,12.82,17.86,13.05
+Study Areas(g),Social Work,2011,53.82,13.74,18.95,13.49
+Study Areas(g),Social Work,2012,50.31,13.61,21.04,15.04
+Study Areas(g),Social Work,2013,48.37,13.4,21.12,17.11
+Study Areas(g),Social Work,2014,46.62,14.79,21.4,17.18
+Study Areas(g),Social Work,2015,49.46,14.94,21.2,14.4
+Study Areas(g),Social Work,2016,48.25,16.05,21.22,14.47
+Study Areas(g),Social Work,2017,46.59,15.84,21.77,15.8
+Study Areas(g),Psychology,2005,62.84,13.25,13.9,10.01
+Study Areas(g),Psychology,2006,62.32,12.53,15.57,9.58
+Study Areas(g),Psychology,2007,63.32,13.1,15.28,8.3
+Study Areas(g),Psychology,2008,63.47,12.88,15.58,8.06
+Study Areas(g),Psychology,2009,62.4,13.44,16.37,7.78
+Study Areas(g),Psychology,2010,61.19,13.49,16.68,8.64
+Study Areas(g),Psychology,2011,61.8,13.54,16.19,8.47
+Study Areas(g),Psychology,2012,60.31,14.08,16.63,8.97
+Study Areas(g),Psychology,2013,60.43,13.87,16.63,9.06
+Study Areas(g),Psychology,2014,59.93,13.86,17.2,9.01
+Study Areas(g),Psychology,2015,58.09,14.72,16.87,10.32
+Study Areas(g),Psychology,2016,57.89,15.55,16.38,10.18
+Study Areas(g),Psychology,2017,57.48,14.8,18.16,9.56
+Study Areas(g),Law and Paralegal Studies,2005,68.61,14.61,10.32,6.46
+Study Areas(g),Law and Paralegal Studies,2006,66.96,14.65,11.7,6.69
+Study Areas(g),Law and Paralegal Studies,2007,65.95,16.36,11.37,6.31
+Study Areas(g),Law and Paralegal Studies,2008,66.02,15.82,11.34,6.82
+Study Areas(g),Law and Paralegal Studies,2009,67.38,15.24,11.77,5.62
+Study Areas(g),Law and Paralegal Studies,2010,64.61,16.27,12.2,6.92
+Study Areas(g),Law and Paralegal Studies,2011,65.61,16.09,12.47,5.83
+Study Areas(g),Law and Paralegal Studies,2012,62.93,17.06,13.43,6.58
+Study Areas(g),Law and Paralegal Studies,2013,63.11,16.97,13.27,6.66
+Study Areas(g),Law and Paralegal Studies,2014,63.23,15.75,13.91,7.11
+Study Areas(g),Law and Paralegal Studies,2015,64.57,15.93,13.17,6.33
+Study Areas(g),Law and Paralegal Studies,2016,63.46,17.18,12.68,6.68
+Study Areas(g),Law and Paralegal Studies,2017,61.55,17.14,14.41,6.9
+Study Areas(g),Creative Arts,2005,70.12,7.52,14.11,8.25
+Study Areas(g),Creative Arts,2006,70.42,7.97,13.26,8.35
+Study Areas(g),Creative Arts,2007,69.36,8.78,13.36,8.49
+Study Areas(g),Creative Arts,2008,69.9,8.01,13.08,9.01
+Study Areas(g),Creative Arts,2009,70.7,8.25,13.52,7.53
+Study Areas(g),Creative Arts,2010,68.78,8.55,14.61,8.06
+Study Areas(g),Creative Arts,2011,67.6,8.78,15.19,8.44
+Study Areas(g),Creative Arts,2012,68.71,8.14,14.54,8.61
+Study Areas(g),Creative Arts,2013,64.21,8.4,15.61,11.78
+Study Areas(g),Creative Arts,2014,65.4,8.64,14.45,11.51
+Study Areas(g),Creative Arts,2015,65.18,9.27,14.96,10.6
+Study Areas(g),Creative Arts,2016,65.62,9.99,14.59,9.8
+Study Areas(g),Creative Arts,2017,65.58,9.21,15.63,9.58
+Study Areas(g),Communications,2005,70.32,9.1,12.33,8.26
+Study Areas(g),Communications,2006,69.99,9.75,12.68,7.58
+Study Areas(g),Communications,2007,70.79,9.47,11.96,7.77
+Study Areas(g),Communications,2008,70.33,9.62,13.31,6.74
+Study Areas(g),Communications,2009,68.95,10.37,13.8,6.88
+Study Areas(g),Communications,2010,68.76,10.37,14.13,6.75
+Study Areas(g),Communications,2011,68.86,10.03,14.18,6.93
+Study Areas(g),Communications,2012,66.52,10.43,15.35,7.7
+Study Areas(g),Communications,2013,65.33,10.25,15.7,8.72
+Study Areas(g),Communications,2014,66.52,9.53,15.43,8.52
+Study Areas(g),Communications,2015,65.44,11.46,14.63,8.47
+Study Areas(g),Communications,2016,66.01,11.55,14.57,7.87
+Study Areas(g),Communications,2017,63.82,11.29,16.0,8.89
+Study Areas(g),"Tourism, Hospitality, Personal Services, Sport and Recreation",2005,62.91,9.02,15.89,12.17
+Study Areas(g),"Tourism, Hospitality, Personal Services, Sport and Recreation",2006,59.0,9.05,17.61,14.34
+Study Areas(g),"Tourism, Hospitality, Personal Services, Sport and Recreation",2007,61.66,8.59,15.95,13.8
+Study Areas(g),"Tourism, Hospitality, Personal Services, Sport and Recreation",2008,62.37,9.35,17.33,10.95
+Study Areas(g),"Tourism, Hospitality, Personal Services, Sport and Recreation",2009,63.15,8.99,18.96,8.9
+Study Areas(g),"Tourism, Hospitality, Personal Services, Sport and Recreation",2010,59.33,10.24,17.65,12.78
+Study Areas(g),"Tourism, Hospitality, Personal Services, Sport and Recreation",2011,60.11,11.91,17.53,10.45
+Study Areas(g),"Tourism, Hospitality, Personal Services, Sport and Recreation",2012,56.95,10.71,19.09,13.25
+Study Areas(g),"Tourism, Hospitality, Personal Services, Sport and Recreation",2013,57.88,10.61,18.82,12.69
+Study Areas(g),"Tourism, Hospitality, Personal Services, Sport and Recreation",2014,55.46,9.42,20.88,14.24
+Study Areas(g),"Tourism, Hospitality, Personal Services, Sport and Recreation",2015,54.51,12.55,18.03,14.91
+Study Areas(g),"Tourism, Hospitality, Personal Services, Sport and Recreation",2016,51.66,12.57,20.23,15.54
+Study Areas(g),"Tourism, Hospitality, Personal Services, Sport and Recreation",2017,52.95,13.27,20.75,13.04

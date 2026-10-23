@@ -1,0 +1,67 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "height": 200,
+  "config": {
+    "font": "Helvetica, Arial, sans-serif",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "grid": false
+    }
+  },
+  "data": {
+    "url": "data/six_year_by_group.csv"
+  },
+  "transform": [
+    {
+      "filter": "datum.section=='Regional Classification ( c )'"
+    }
+  ],
+  "facet": {
+    "column": {
+      "field": "group",
+      "type": "nominal",
+      "sort": [
+        "Metropolitan",
+        "Regional",
+        "Remote"
+      ],
+      "title": null
+    }
+  },
+  "spec": {
+    "width": 170,
+    "height": 200,
+    "mark": {
+      "type": "line",
+      "point": true,
+      "color": "#1f5fa8"
+    },
+    "encoding": {
+      "x": {
+        "field": "cohort_start",
+        "type": "quantitative",
+        "title": "Year started",
+        "axis": {
+          "format": "d",
+          "tickCount": 3
+        }
+      },
+      "y": {
+        "field": "completed",
+        "type": "quantitative",
+        "title": "Completed (%)",
+        "scale": {
+          "domain": [
+            0,
+            100
+          ],
+          "zero": true
+        }
+      }
+    }
+  }
+}

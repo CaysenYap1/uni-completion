@@ -1,0 +1,69 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 360,
+  "config": {
+    "font": "Helvetica, Arial, sans-serif",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "grid": false
+    }
+  },
+  "data": {
+    "url": "data/australia_states.geojson",
+    "format": {
+      "type": "json",
+      "property": "features"
+    }
+  },
+  "projection": {
+    "type": "equalEarth"
+  },
+  "transform": [
+    {
+      "lookup": "properties.STATE_NAME",
+      "from": {
+        "data": {
+          "url": "data/abs_attainment_by_state.csv"
+        },
+        "key": "state",
+        "fields": [
+          "bachelor_pct"
+        ]
+      }
+    }
+  ],
+  "mark": {
+    "type": "geoshape",
+    "stroke": "white",
+    "strokeWidth": 0.7
+  },
+  "encoding": {
+    "color": {
+      "field": "bachelor_pct",
+      "type": "quantitative",
+      "title": "% with a bachelor degree",
+      "scale": {
+        "scheme": "blues",
+        "domain": [
+          10,
+          30
+        ]
+      }
+    },
+    "tooltip": [
+      {
+        "field": "properties.STATE_NAME",
+        "title": "State"
+      },
+      {
+        "field": "bachelor_pct",
+        "title": "% bachelor degree"
+      }
+    ]
+  }
+}

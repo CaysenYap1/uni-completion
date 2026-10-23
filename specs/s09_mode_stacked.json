@@ -1,0 +1,95 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 180,
+  "config": {
+    "font": "Helvetica, Arial, sans-serif",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "grid": false
+    }
+  },
+  "data": {
+    "url": "data/six_year_by_group.csv"
+  },
+  "transform": [
+    {
+      "filter": "datum.section=='Mode of Attendance' && datum.cohort_start==2017 && datum.group!='Multi-modal'"
+    },
+    {
+      "fold": [
+        "completed",
+        "still_enrolled",
+        "dropped_out",
+        "never_returned"
+      ],
+      "as": [
+        "key",
+        "value"
+      ]
+    },
+    {
+      "calculate": "{'completed':'Completed','still_enrolled':'Still studying','dropped_out':'Dropped out','never_returned':'Never came back'}[datum.key]",
+      "as": "outcome"
+    }
+  ],
+  "mark": "bar",
+  "encoding": {
+    "y": {
+      "field": "group",
+      "type": "nominal",
+      "title": null,
+      "sort": [
+        "Internal",
+        "External"
+      ]
+    },
+    "x": {
+      "field": "value",
+      "type": "quantitative",
+      "title": "Share of students (%)",
+      "scale": {
+        "domain": [
+          0,
+          100
+        ]
+      }
+    },
+    "color": {
+      "field": "outcome",
+      "type": "nominal",
+      "title": null,
+      "sort": [
+        "Completed",
+        "Still studying",
+        "Dropped out",
+        "Never came back"
+      ],
+      "scale": {
+        "domain": [
+          "Completed",
+          "Still studying",
+          "Dropped out",
+          "Never came back"
+        ],
+        "range": [
+          "#1f5fa8",
+          "#9ecae1",
+          "#fdae6b",
+          "#c26a1b"
+        ]
+      },
+      "legend": {
+        "orient": "top"
+      }
+    },
+    "order": {
+      "field": "key",
+      "sort": "ascending"
+    }
+  }
+}

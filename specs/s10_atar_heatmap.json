@@ -1,0 +1,79 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 260,
+  "config": {
+    "font": "Helvetica, Arial, sans-serif",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "grid": false
+    }
+  },
+  "data": {
+    "url": "data/six_year_by_group.csv"
+  },
+  "transform": [
+    {
+      "filter": "indexof(datum.section,'Australian Tertiary')==0 && datum.group!='ATAR not provided or not required'"
+    }
+  ],
+  "mark": {
+    "type": "rect",
+    "stroke": "white"
+  },
+  "encoding": {
+    "x": {
+      "field": "cohort_start",
+      "type": "ordinal",
+      "title": "Year students started",
+      "axis": {
+        "labelAngle": 0,
+        "labelOverlap": true
+      }
+    },
+    "y": {
+      "field": "group",
+      "type": "ordinal",
+      "title": "ATAR band",
+      "sort": [
+        "95-100",
+        "90-94",
+        "80-89",
+        "70-79",
+        "60-69",
+        "50-59",
+        "30-49"
+      ]
+    },
+    "color": {
+      "field": "completed",
+      "type": "quantitative",
+      "title": "Completed (%)",
+      "scale": {
+        "scheme": "blues",
+        "domain": [
+          30,
+          100
+        ]
+      }
+    },
+    "tooltip": [
+      {
+        "field": "group",
+        "title": "ATAR"
+      },
+      {
+        "field": "cohort_start",
+        "title": "Year"
+      },
+      {
+        "field": "completed",
+        "title": "% completed"
+      }
+    ]
+  }
+}
