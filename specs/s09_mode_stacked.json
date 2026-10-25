@@ -8,6 +8,7 @@
       "stroke": null
     },
     "axis": {
+      "labelLimit": 260,
       "labelFontSize": 12,
       "titleFontSize": 12,
       "grid": false
@@ -35,17 +36,25 @@
     {
       "calculate": "{'completed':'Completed','still_enrolled':'Still studying','dropped_out':'Dropped out','never_returned':'Never came back'}[datum.key]",
       "as": "outcome"
+    },
+    {
+      "calculate": "{'completed':1,'still_enrolled':2,'dropped_out':3,'never_returned':4}[datum.key]",
+      "as": "rank"
+    },
+    {
+      "calculate": "datum.group=='Internal'?'On campus':'Online or distance'",
+      "as": "mode"
     }
   ],
   "mark": "bar",
   "encoding": {
     "y": {
-      "field": "group",
+      "field": "mode",
       "type": "nominal",
       "title": null,
       "sort": [
-        "Internal",
-        "External"
+        "On campus",
+        "Online or distance"
       ]
     },
     "x": {
@@ -88,8 +97,8 @@
       }
     },
     "order": {
-      "field": "key",
-      "sort": "ascending"
+      "field": "rank",
+      "type": "quantitative"
     }
   }
 }

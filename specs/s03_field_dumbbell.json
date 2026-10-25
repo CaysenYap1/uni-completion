@@ -8,6 +8,7 @@
       "stroke": null
     },
     "axis": {
+      "labelLimit": 260,
       "labelFontSize": 12,
       "titleFontSize": 12,
       "grid": false
@@ -87,12 +88,12 @@
           }
         },
         "color": {
-          "datum": "2005 cohort",
+          "datum": "2005 starters",
           "type": "nominal",
           "scale": {
             "domain": [
-              "2005 cohort",
-              "2017 cohort"
+              "2005 starters",
+              "2017 starters"
             ],
             "range": [
               "#9aa5b1",
@@ -126,12 +127,12 @@
           }
         },
         "color": {
-          "datum": "2017 cohort",
+          "datum": "2017 starters",
           "type": "nominal",
           "scale": {
             "domain": [
-              "2005 cohort",
-              "2017 cohort"
+              "2005 starters",
+              "2017 starters"
             ],
             "range": [
               "#9aa5b1",

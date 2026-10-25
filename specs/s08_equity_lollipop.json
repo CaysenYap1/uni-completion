@@ -8,6 +8,7 @@
       "stroke": null
     },
     "axis": {
+      "labelLimit": 260,
       "labelFontSize": 12,
       "titleFontSize": 12,
       "grid": false
@@ -19,18 +20,22 @@
   "transform": [
     {
       "filter": "indexof(['First Nations','Not Indigenous','Low SES','Medium SES','High SES'],datum.group)>=0 && datum.cohort_start==2017"
+    },
+    {
+      "calculate": "{'Low SES':'Low socio-economic area','Medium SES':'Medium socio-economic area','High SES':'High socio-economic area'}[datum.group] || datum.group",
+      "as": "label"
     }
   ],
   "encoding": {
     "y": {
-      "field": "group",
+      "field": "label",
       "type": "nominal",
       "sort": [
         "First Nations",
         "Not Indigenous",
-        "Low SES",
-        "Medium SES",
-        "High SES"
+        "Low socio-economic area",
+        "Medium socio-economic area",
+        "High socio-economic area"
       ],
       "title": null
     }
@@ -52,6 +57,16 @@
               100
             ],
             "zero": true
+          },
+          "axis": {
+            "values": [
+              0,
+              20,
+              40,
+              60,
+              80,
+              100
+            ]
           }
         },
         "x2": {
@@ -76,11 +91,21 @@
               100
             ],
             "zero": true
+          },
+          "axis": {
+            "values": [
+              0,
+              20,
+              40,
+              60,
+              80,
+              100
+            ]
           }
         },
         "tooltip": [
           {
-            "field": "group"
+            "field": "label"
           },
           {
             "field": "completed",
