@@ -1,0 +1,115 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 240,
+  "height": 260,
+  "config": {
+    "font": "Helvetica, Arial, sans-serif",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelLimit": 260,
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "grid": false
+    }
+  },
+  "data": {
+    "url": "data/institution_six_year.csv"
+  },
+  "transform": [
+    {
+      "filter": "datum.cohort_start==2017 && datum.state!='Multi-State'"
+    },
+    {
+      "aggregate": [
+        {
+          "op": "mean",
+          "field": "completion_rate",
+          "as": "completed"
+        }
+      ],
+      "groupby": [
+        "state"
+      ]
+    },
+    {
+      "lookup": "state",
+      "from": {
+        "data": {
+          "url": "data/tiles.csv"
+        },
+        "key": "state",
+        "fields": [
+          "abbr",
+          "col",
+          "row"
+        ]
+      }
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "col",
+      "type": "ordinal",
+      "axis": null
+    },
+    "y": {
+      "field": "row",
+      "type": "ordinal",
+      "axis": null
+    }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "rect",
+        "stroke": "white",
+        "strokeWidth": 3
+      },
+      "encoding": {
+        "color": {
+          "field": "completed",
+          "type": "quantitative",
+          "title": "Average completed (%)",
+          "scale": {
+            "scheme": "blues",
+            "domain": [
+              40,
+              80
+            ]
+          }
+        },
+        "tooltip": [
+          {
+            "field": "state"
+          },
+          {
+            "field": "completed",
+            "title": "Average %",
+            "format": ".1f"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "fontSize": 13,
+        "fontWeight": "bold"
+      },
+      "encoding": {
+        "text": {
+          "field": "abbr"
+        },
+        "color": {
+          "condition": {
+            "test": "datum.completed>62",
+            "value": "white"
+          },
+          "value": "#1a1a1a"
+        }
+      }
+    }
+  ]
+}

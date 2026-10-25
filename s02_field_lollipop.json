@@ -1,0 +1,116 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 300,
+  "config": {
+    "font": "Helvetica, Arial, sans-serif",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelLimit": 260,
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "grid": false
+    }
+  },
+  "data": {
+    "url": "data/six_year_by_group.csv"
+  },
+  "transform": [
+    {
+      "filter": "datum.section=='Broad Field of Education(d)' && datum.cohort_start==2017"
+    },
+    {
+      "calculate": "datum.group",
+      "as": "label"
+    }
+  ],
+  "encoding": {
+    "y": {
+      "field": "label",
+      "type": "nominal",
+      "sort": {
+        "field": "completed",
+        "op": "max",
+        "order": "descending"
+      },
+      "title": null
+    }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "rule",
+        "color": "#9aa5b1"
+      },
+      "encoding": {
+        "x": {
+          "field": "completed",
+          "type": "quantitative",
+          "title": "Completed within 6 years (%)",
+          "scale": {
+            "domain": [
+              0,
+              100
+            ],
+            "zero": true
+          },
+          "axis": {
+            "values": [
+              0,
+              20,
+              40,
+              60,
+              80,
+              100
+            ]
+          }
+        },
+        "x2": {
+          "datum": 0
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "circle",
+        "size": 90,
+        "color": "#1f5fa8"
+      },
+      "encoding": {
+        "x": {
+          "field": "completed",
+          "type": "quantitative",
+          "title": "Completed within 6 years (%)",
+          "scale": {
+            "domain": [
+              0,
+              100
+            ],
+            "zero": true
+          },
+          "axis": {
+            "values": [
+              0,
+              20,
+              40,
+              60,
+              80,
+              100
+            ]
+          }
+        },
+        "tooltip": [
+          {
+            "field": "label"
+          },
+          {
+            "field": "completed",
+            "title": "%"
+          }
+        ]
+      }
+    }
+  ]
+}

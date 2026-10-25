@@ -1,0 +1,150 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 300,
+  "config": {
+    "font": "Helvetica, Arial, sans-serif",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelLimit": 260,
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "grid": false
+    }
+  },
+  "data": {
+    "url": "data/six_year_by_group.csv"
+  },
+  "transform": [
+    {
+      "filter": "datum.section=='Broad Field of Education(d)' && (datum.cohort_start==2005 || datum.cohort_start==2017)"
+    },
+    {
+      "pivot": "cohort_start",
+      "value": "completed",
+      "groupby": [
+        "group"
+      ]
+    },
+    {
+      "filter": "isValid(datum['2005']) && isValid(datum['2017'])"
+    }
+  ],
+  "encoding": {
+    "y": {
+      "field": "group",
+      "type": "nominal",
+      "title": null,
+      "sort": {
+        "field": "2017",
+        "op": "max",
+        "order": "descending"
+      }
+    }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "rule",
+        "color": "#9aa5b1"
+      },
+      "encoding": {
+        "x": {
+          "field": "2005",
+          "type": "quantitative",
+          "title": "Completed within 6 years (%)",
+          "scale": {
+            "domain": [
+              0,
+              100
+            ],
+            "zero": true
+          }
+        },
+        "x2": {
+          "field": "2017"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "circle",
+        "size": 90,
+        "opacity": 1
+      },
+      "encoding": {
+        "x": {
+          "field": "2005",
+          "type": "quantitative",
+          "title": "Completed within 6 years (%)",
+          "scale": {
+            "domain": [
+              0,
+              100
+            ],
+            "zero": true
+          }
+        },
+        "color": {
+          "datum": "2005 starters",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "2005 starters",
+              "2017 starters"
+            ],
+            "range": [
+              "#9aa5b1",
+              "#1f5fa8"
+            ]
+          },
+          "legend": {
+            "title": null,
+            "orient": "top"
+          }
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "circle",
+        "size": 90,
+        "opacity": 1
+      },
+      "encoding": {
+        "x": {
+          "field": "2017",
+          "type": "quantitative",
+          "title": "Completed within 6 years (%)",
+          "scale": {
+            "domain": [
+              0,
+              100
+            ],
+            "zero": true
+          }
+        },
+        "color": {
+          "datum": "2017 starters",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "2005 starters",
+              "2017 starters"
+            ],
+            "range": [
+              "#9aa5b1",
+              "#1f5fa8"
+            ]
+          },
+          "legend": {
+            "title": null,
+            "orient": "top"
+          }
+        }
+      }
+    }
+  ]
+}

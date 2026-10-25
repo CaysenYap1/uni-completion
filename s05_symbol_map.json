@@ -1,0 +1,99 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 360,
+  "config": {
+    "font": "Helvetica, Arial, sans-serif",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelLimit": 260,
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "grid": false
+    }
+  },
+  "projection": {
+    "type": "equalEarth"
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "data/australia_states.geojson",
+        "format": {
+          "type": "json",
+          "property": "features"
+        }
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "#e7ebef",
+        "stroke": "white"
+      }
+    },
+    {
+      "data": {
+        "url": "data/institution_six_year.csv"
+      },
+      "transform": [
+        {
+          "filter": "datum.cohort_start==2017"
+        },
+        {
+          "lookup": "institution",
+          "from": {
+            "data": {
+              "url": "data/university_locations.csv"
+            },
+            "key": "institution",
+            "fields": [
+              "lat",
+              "lon"
+            ]
+          }
+        },
+        {
+          "filter": "isValid(datum.lat)"
+        }
+      ],
+      "mark": {
+        "type": "circle",
+        "size": 90,
+        "stroke": "white",
+        "opacity": 0.95
+      },
+      "encoding": {
+        "longitude": {
+          "field": "lon",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "lat",
+          "type": "quantitative"
+        },
+        "color": {
+          "field": "completion_rate",
+          "type": "quantitative",
+          "title": "Completed in 6 years (%)",
+          "scale": {
+            "scheme": "viridis",
+            "domain": [
+              30,
+              90
+            ]
+          }
+        },
+        "tooltip": [
+          {
+            "field": "institution"
+          },
+          {
+            "field": "completion_rate",
+            "title": "% completed"
+          }
+        ]
+      }
+    }
+  ]
+}

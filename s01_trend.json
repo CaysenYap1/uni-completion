@@ -1,0 +1,53 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 240,
+  "config": {
+    "font": "Helvetica, Arial, sans-serif",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelLimit": 260,
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "grid": false
+    }
+  },
+  "data": {
+    "url": "data/six_year_by_group.csv"
+  },
+  "transform": [
+    {
+      "filter": "datum.section=='National' && indexof(datum.group,'National Total')>=0"
+    }
+  ],
+  "mark": {
+    "type": "line",
+    "point": true,
+    "color": "#1f5fa8"
+  },
+  "encoding": {
+    "x": {
+      "field": "cohort_start",
+      "type": "quantitative",
+      "title": "Year students started",
+      "axis": {
+        "format": "d",
+        "tickMinStep": 2
+      }
+    },
+    "y": {
+      "field": "completed",
+      "type": "quantitative",
+      "title": "Completed within 6 years (%)",
+      "scale": {
+        "domain": [
+          0,
+          100
+        ],
+        "zero": true
+      }
+    }
+  }
+}
